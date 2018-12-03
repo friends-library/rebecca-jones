@@ -1,8 +1,12 @@
 == Chapter VIII.
 
+[.chapter-subtitle--blurb]
 1791.
 
-Decease of John Hustler and of Sarah R. Grubb.--Letters--Visits Long Island, etc.
+[.chapter-synopsis]
+* Decease of John Hustler and of Sarah R. Grubb.
+* Letters
+* Visits Long Island, etc.
 
 1st Mo. 27th, 1791.
 She thus notices the decease of John Hustler.--"`I feel near
@@ -28,9 +32,11 @@ and for the sake of your dear children and other relatives,
 and for an example to others when introduced into the like path of sorrow,
 be strengthened to say, your will be done--yes,
 
+[verse]
+____
 "`Confess aloud with holy Job, and say
-
 The Lord, who gave, has right to take away.`"
+____
 
 A letter from George Dillwyn to Rebecca Jones mentioning the
 decease (in her 35th year) of Sarah Grubb,
@@ -625,4 +631,3 @@ with "`a lengthy speech now,`" but as I do feel
 very sincere esteem and love for your dear wife,
 sister and children, please let them know it.
  
-

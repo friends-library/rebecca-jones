@@ -1,20 +1,32 @@
 == Chapter V.
 
+[.chapter-subtitle--blurb]
 1785--1788.
 
-Gives up for Ireland--Various letters--Lauds at Dublin where she
-visits families--Message from Captain Truxton--Family visits,
-at Ballitore and Calleds.
-Remarkable anecdote of George Dillwyn--Sarah Grubb arrives--Visits families at
-Lisburn--Completes her labours in Ireland and returns to England--Sickness,
-death and funeral of Thomas Ross--Labors in Wales--Family visit at York and
-at Leeds--Certificate of Ireland Half Year`'s Meeting--Attends London Yearly
-Meeting--W. Mathews`' testimony of the growth in her gift--Illness of
-Christiana Hustler and of Sarah Grubb--Visits families at Sheffield,
-Warnsworth,
-and High Wycombe--Hannah Cathrall`'s integrity in returning 50 pounds--Certificate
-of London Yearly Meeting--Concern on account of Africans--Attends London Yearly
-Meeting--Preparations to embark Parting scenes--Tabular notes.
+[.chapter-synopsis]
+* Gives up for Ireland
+* Various letters
+* Lauds at Dublin where she visits families
+* Message from Captain Truxton
+* Family visits, at Ballitore and Calleds.
+* Remarkable anecdote of George Dillwyn
+* Sarah Grubb arrives
+* Visits families at Lisburn
+* Completes her labours in Ireland and returns to England
+* Sickness, death and funeral of Thomas Ross
+* Labors in Wales
+* Family visit at York and at Leeds
+* Certificate of Ireland Half Year`'s Meeting
+* Attends London Yearly Meeting
+* W. Mathews`' testimony of the growth in her gift
+* Illness of Christiana Hustler and of Sarah Grubb
+* Visits families at Sheffield, Warnsworth, and High Wycombe
+* Hannah Cathrall`'s integrity in returning 50 pounds
+* Certificate of London Yearly Meeting
+* Concern on account of Africans
+* Attends London Yearly Meeting
+* Preparations to embark Parting scenes
+* Tabular notes.
 
 Her proposed mission to Ireland, closing from her view,
 Rebecca Jones made preparation for going into Sussex,
@@ -74,6 +86,9 @@ I never knew Samuel Emlen more favoured.`"
 A letter from Capt.
 Truxton to Samuel Emlen, received at this time, says--
 
+[.embedded-content-document.letter]
+--
+
 "`Present my best compliments to Rebecca Jones, and to that worthy old favourite of mine,
 Thomas Ross.
 May God of his infinite mercy and goodness, continue his blessing towards you all;
@@ -81,6 +96,8 @@ and after you are satisfied in your own minds that you have done your
 duty towards Him and towards your brethren in this eastern world,
 that He may be pleased to conduct you to your families, relations and friends in safety,
 is my sincere wish and prayer.`"
+
+--
 
 The following lines addressed to her by Sarah Grubb, and dated Seventh month 1st,
 have reference to the engagement just noticed:
@@ -98,12 +115,19 @@ Thus may your spirits be supported to persevere in the Lord`'s work,
 and to do valiantly in restoring the ancient path of purity,
 simplicity and dedication of heart.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To James Pemberton.
 
-Dublin, 6th mo.
-29th, 1785.
+[.signed-section-context-open]
+Dublin, 6th mo. 29th, 1785.
 
-Esteemed Friend,--Your truly acceptable salutations of the 23rd of Second month,
+[.salutation]
+Esteemed Friend,
+
+Your truly acceptable salutations of the 23rd of Second month,
 and 13th of last month, came duly; the first received at London, the other yesterday,
 and both were occasions of comfort and encouragement to my drooping mind:
 having had many conflicts and exercises,
@@ -189,18 +213,25 @@ by those who have my welfare and the welfare of the great and good cause at hear
 which is increasingly dear to me, though a feeble servant, who can do little,
 very little, for its advancement, I conclude, and remain your affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To H. Drinker and Wife, And M. Sandwith
 
-Dublin, 6th mo.
-30th, 1785
+[.signed-section-context-open]
+Dublin, 6th mo. 30th, 1785
 
+[.salutation]
 Much esteemed Friends and old kind neighbours, H. D. and wife,
-and M. Sandwith,--I don`'t forget my former acquaintance, but often,
+and M. Sandwith,
+
+I don`'t forget my former acquaintance, but often,
 (among many others) think of you and yours with continued desires for your preservation,
 every way,
 that as you with me have been made experimental witnesses of
@@ -241,7 +272,9 @@ and dear John Pemberton has left an open door in the minds of Friends and others
 so have the other Friends who have visited this nation.
 May their honest labours be blessed!
 
-"`Seventh month 25th, 1785.--R. S. and wife, George Dillwyn and myself,
+--
+
+"`Seventh month 25th, 1785.--Richard Shackleton and wife, George Dillwyn and myself,
 engaged in a family visit to friends at Ballitore, and Catleds.
 Began at Abraham Shackleton`'s school, amongst about fifty boys,
 mostly not members of our Society.
@@ -267,7 +300,7 @@ On their way from Richard Shackleton`'s,
 Rebecca Jones was riding in much mental depression.
 George Dillwyn being on horseback,
 rode up to the side of the carriage and said--"`Be comforted, Rebecca,
-Sarah is safe on terra firma.`"
+Sarah is safe on __terra firma__.`"
 When they had reached the house to which they were bound,
 Rebecca Jones found a Bible in the window, and opening it,
 her eyes rested on 1 Kings 17:24. She said--"`George,
@@ -296,6 +329,9 @@ Next day they set forward, leaving Sarah Dillwyn at Richard Shackleton`'s.
 On the 1st of Eighth Month, she writes from Baltimore to Joseph Williams,
 who was her kind host at Dublin,
 
+[.embedded-content-document.letter]
+--
+
 "`I am yet a very poor creature, but hope to be content,
 and to feel the reward of peace in reviewing my labours in your city.
 May the professors of truth in that place be
@@ -309,15 +345,21 @@ as they come into the experience of the fulfilling of his
 gracious declaration,--'`This people have I formed for myself;
 they shall show forth my praise.`"
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Christiana Hustler
 
-Grange, near Charlmont, 6th mo.
-13th, 1785.
+[.signed-section-context-open]
+Grange, near Charlmont, 6th mo. 13th, 1785.
 
-Dearly Beloved Friend,--So it is, whether we have anything worth communicating or not,
+[.salutation]
+Dearly Beloved Friend,
+
+So it is, whether we have anything worth communicating or not,
 when we are brought near to them we love,
 and feel in the precious covenant of life and heavenly fellowship,
 we cannot forbear saluting each other; and this is so much my case,
@@ -389,7 +431,10 @@ and to present us faultless before the throne of His glory with exceeding joy,
 I commit and commend you, with my own soul,
 and remain with undiminished love and well-wishing, your poor fellow pilgrim.
 
- Rebecca Jones
+[.signed-section-signature]
+Rebecca Jones
+
+--
 
 On the 25th of 8th month, our friends attended the Monthly Meeting at Lisburn.
 Sarah Grubb says,
@@ -464,12 +509,19 @@ On the 20th of Twelfth month,
 our friends (including George Dillwyn and wife,) landed in England,
 and on the 27th she thus writes to her valued friend, Joseph Williams of Dublin.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Joseph Williams.
 
-Leeds, 12th mo.
-27th, 1785
+[.signed-section-context-open]
+Leeds, 12th mo. 27th, 1785
 
-Dear Joseph,--George Dillwyn having undertaken
+[.salutation]
+Dear Joseph,
+
+George Dillwyn having undertaken
 to announce our safe arrival at Whitehaven,
 in gratitude and thankfulness to the great Preserver of men,
 it was less necessary for me to write at that time;
@@ -511,9 +563,15 @@ giving a very full account of his people and their present condition;
 that though he has been a warrior, he appears to be a solid, sincere-hearted,
 thinking man, and that he proposes staying awhile to acquire the English language.
 
+[.signed-section-signature]
 Rebecca Jones
 
+--
+
 The following is extracted from a letter from J. Pemberton to Rebecca Jones:
+
+[.embedded-content-document.letter]
+--
 
 "`It appears there are in two places in our land,
 convincements similar to that in France, one about 150 miles from Danby,
@@ -532,6 +590,8 @@ rejoiced to find there was a people who professed this inward principle;
 their number is about 12 families who have embraced this doctrine.
 The other settlement is up the North river, on the west side of it,
 the number not mentioned.`"
+
+--
 
 At the opening of the year 1786, we find by a note,
 that she was enabled to look forward with the eye of
@@ -568,12 +628,19 @@ I have believed that you will be set at liberty to go home after the next Yearly
 and I once hoped to be your company--but that is over,
 and I shall finish my course here.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Henry Drinker, (written At Robert Grubb`'s.)
 
-Foston, near York, 2nd mo.
-8th, 1786.
+[.signed-section-context-open]
+Foston, near York, 2nd mo. 8th, 1786.
 
-Much esteemed friend,--I have abundant cause to
+[.salutation]
+Much esteemed friend,
+
+I have abundant cause to
 be more humbly thankful to the Father of mercies,
 than any other of your correspondents--not only
 for the innumerable favours heretofore received,
@@ -688,7 +755,10 @@ and that he is not easy to leave Thomas Ross.
 With the salutation of love, I can feelingly subscribe myself your sincere and obliged,
 though poor, friend,
 
+[.signed-section-signature]
 Rebecca Jones.
+
+--
 
 Rebecca Jones and John Pemberton were detained awhile in the neighbourhood of York,
 awaiting the release of their aged honourable friend, Thomas Ross.
@@ -704,7 +774,7 @@ a large audience being collected on the occasion.
 On the 15th she writes--"`Dear J. Pemberton`'s tried path has claimed my sympathy,
 but he is so admirably supported, both body and mind,
 that I am therefrom encouraged to believe that all is now and will be finally well.
-George Dillwyn has sometimes made a comparison between some of us and John Pembrerton,
+George Dillwyn has sometimes made a comparison between some of us and John Pemberton,
 that we are as fishing with a crooked pin and thread,
 while John is casting his net into the sea.
 Oh that his labours may successfully gather many to the heavenly Shepherd.
@@ -730,6 +800,9 @@ Writing from Stockport, on the 6th of Fourth month, to Esther Tuke,
 (who was stepmother to Sarah Grubb,) after acknowledging the favour
 of "`the living loan from your family,`" she thus continues:
 
+[.embedded-content-document.letter]
+--
+
 "`Now that my back is turned upon Yorkshire, I cannot say,
 notwithstanding I have had close and deep baptisms to pass through,
 what dear N. Waln uttered when he had quit your borders, except this, which,
@@ -751,6 +824,8 @@ and the deeply exercised suppliants in the inner Temple.
 Of which number, may you, my dear fellow travellers, both parents and children,
 be happily found.`"
 
+--
+
 Being joined by Sarah Grubb, they visited Wales and the western counties.
 This journey was rendered arduous by the ruggedness of the country,
 the road partly being "`over the tops of very high mountains`"
@@ -760,12 +835,19 @@ and more in the simplicity than most other places.
 Great openness also among others many of whom understand our language,
 and gladly accept invitations to attend our Meetings.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Joseph Williams.
 
-Bradford, Yorkshire, 3rd mo.
-25th, 1786.
+[.signed-section-context-open]
+Bradford, Yorkshire, 3rd mo. 25th, 1786.
 
-Dear Joseph,--You will probably be surprised to hear that I am still in this country;
+[.salutation]
+Dear Joseph,
+
+You will probably be surprised to hear that I am still in this country;
 and I assure you that my detention has been as
 unexpected to myself as to any of my dear friends;
 yet having an humble hope that I have been in my right place,
@@ -830,11 +912,13 @@ yet He will make way for His dependent suppliant ones where there appears to be 
 He has promised that "`The needy shall not always be forgotten:
 the expectation of the poor shall not perish forever.`"
 
-I am, with unfeigned regard,
+[.signed-section-closing]
+I am, with unfeigned regard, your affectionate friend,
 
-Your affectionate friend,
-
+[.signed-section-signature]
 Rebecca Jones.
+
+--
 
 From the residence of her valued friend Dorothy Owen,^
 footnote:[Dorothy Owen was a lively minister,
@@ -864,11 +948,19 @@ Thus I am led in a way that know not--but desire to be content and thankful,
 acknowledging that the Lord has been my help and
 support beyond all expectation or desert in me.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Christiana Hustler.
 
+[.signed-section-context-open]
 Llanidloes, 29th of 7th mo., 1786.
 
-My Dear Friend,--I wrote you a few hasty lines from an inn at Welchpool,
+[.salutation]
+My Dear Friend,
+
+I wrote you a few hasty lines from an inn at Welchpool,
 to inform you of my coming into this principality,
 and to entreat you to let me hear from you.
 And now being a little at leisure, in a kind friend`'s small cabin,
@@ -881,7 +973,7 @@ in the Lord`'s time, which must be patiently waited for.
 We had a precious meeting at Tythn Ygarreg; many who could not understand us,
 were feelingly sensible of the spreading of Divine love over us.
 At Eskirgoch, in the midst of high hills and great barren mountains,
-to the house where old Jno.
+to the house where old Jonathan
 Goodwin lived and died, came many not of our Society several miles on foot,
 and were solid and attentive.
 The Welch people are an industrious, hardy, plain people,
@@ -946,6 +1038,8 @@ who is almost worn down with attending her;
 and that Catherine Phillips is in a very declining and doubtful way,
 not at all likely to attend the Yearly Meeting there much less get to London.
 
+--
+
 "`Nathan Dearman,`" she notes,
 "`presented me with a walking stick made of the trunk of an oak tree dugout of a morass,
 at a depth of 10 feet, near Thorne, and supposed to have lain there since the flood.
@@ -961,6 +1055,9 @@ The following certificate was issued by the Half Year`'s Meeting for Ireland,
 held in Dublin, 5th mo.
 7th, 1786.
 
+[.embedded-content-document.testimony]
+--
+
 "`Our esteemed friend, Rebecca Jones,
 having paid a religious visit in the work of the
 ministry to the meetings of Friends in this nation,
@@ -975,7 +1072,12 @@ May the great Master continue to strengthen and furnish her for every good word 
 which he may yet call for at her hands in the further course of her service in Europe;
 and when this is finished conduct her in safety to her habitation and friends,
 with the incomes of his sweet peace as a reward for faithfully
-giving up to labour in his vineyard.`"--Signed by 144 Friends.
+giving up to labour in his vineyard.`"
+
+[.signed-section-signature]
+Signed by 144 Friends.
+
+--
 
 After the close of London Yearly Meeting, Rebecca Jones, in writing to John Pemberton,
 gives a beautiful instance of the tenderness with which the assembled
@@ -1014,6 +1116,9 @@ and in deep baptisms with and for it, to feel the supporting hand of Divine good
 
 On the 21st of Seventh month, she writes thus to Joseph Williams:
 
+[.embedded-content-document.letter]
+--
+
 "`I have had a low and weary travel since we left London.
 We passed through Hampshire and some other counties on our way here,
 where we have found the state of the church low indeed,
@@ -1044,7 +1149,12 @@ tossings and afflictions, so that we may be favoured with a safe landing at last
 on that peaceful shore where all sorrow will cease, and temptations will have an end,
 and where our wearied spirits will be forever at rest.`"
 
+--
+
 Penryn, Seventh month 28th, she writes to Hannah Pemberton:
+
+[.embedded-content-document.letter]
+--
 
 "`I suppose you are a little cheered in hope of
 seeing your beloved husband before another year.
@@ -1063,6 +1173,8 @@ on my own account, I often desire,
 finding nothing here worth desiring to be continued for,
 except that the suffering of the present day may work a
 far more exceeding and eternal weight of glory at last.`
+
+--
 
 In recording, after the lapse of more than half a century,
 these aspirations after a better, an enduring and an undefiled inheritance,
@@ -1185,9 +1297,16 @@ After this meeting she was taken ill with fever and acute pain, from which,
 being a little recovered, she was removed to London in time to attend the Yearly Meeting.
 The following letter was written about this time.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To David Sutton.
 
-Dear Friend,--Our dear friend, Hannah Cathrall, of Philadelphia, was a few years ago,
+[.salutation]
+Dear Friend,
+
+Our dear friend, Hannah Cathrall, of Philadelphia, was a few years ago,
 presented by her relation, James King, with the sum of fifty pounds,
 understanding that she had suffered through the trials
 which were permitted to prevail in America.
@@ -1202,9 +1321,13 @@ Our said friend is rather in low circumstances,
 but this did not prevail upon her to retain this money,
 which I have ordered into your hands, and desire you to pay.
 
+[.signed-section-closing]
 I am, etc.,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 The money above referred to, being offered to one of James King`'s assignees,
 he refused to accept it, till the committee of the creditors should meet.
@@ -1219,6 +1342,9 @@ whether the money was at length accepted, the compiler has not been able to asce
 
 To Joseph Williams, she writes:
 
+[.embedded-content-document.letter]
+--
+
 "`I sometimes remember the precious bedewing seasons
 you and I were favoured with together when in Ireland;
 and I humbly pray, according to my small measure, that these may often be renewed to us,
@@ -1231,6 +1357,8 @@ Let us keep this animatingly in view, and endure hardness as good soldiers;
 remembering that the Lamb and his followers will have the Victory,
 however the latter may be tried from within and without.`"
 
+--
+
 The following certificate was granted to her by the London Yearly Meeting,
 although she notes that she had no prospect of a time for returning to her home.
 
@@ -1241,7 +1369,13 @@ to the Monthly Meeting of Friends in Philadelphia for the Northern District,
 the Quarterly Meeting of the said city,
 and General Meeting of Ministers and Elders for Pennsylvania and New Jersey:
 
-Dear Friends,--Our beloved friend, Rebecca Jones,
+[.embedded-content-document.testimony]
+--
+
+[.salutation]
+Dear Friends,
+
+Our beloved friend, Rebecca Jones,
 having in a weighty and solid manner informed us that she apprehends her religious
 service and labour among Friends in this nation is so nearly completed,
 as that she may be likely to return before our next Yearly Meeting,
@@ -1263,7 +1397,11 @@ we hope she will be favoured with the evidence of peace and divine consolation.
 
 We salute you in the love and fellowship of the gospel, and remain your friends,
 brethren and sisters.
+
+[.signed-section-signature]
 (Signed by 204 Friends.)
+
+--
 
 About this time, she had in London eight meetings, exclusively for servants,
 apprentices and poor labourers.
@@ -1271,7 +1409,12 @@ The whole number thus visited was 500,
 "`many of them evidently under the notice of the great Master of us all.`"
 
 Sixth month 2nd,
-she writes from London to Joseph Williams,--"`I have
+she writes from London to Joseph Williams,
+
+[.embedded-content-document.letter]
+--
+
+"`I have
 esteemed it among the Lord`'s mercies and favours,
 that I have been enabled to sit most of the meetings,
 and have thankfully rejoiced with my dear friends in
@@ -1291,10 +1434,16 @@ and they have had their use and service in the general muster.
 I hope it will be not only an easy, but a desirable thing in future,
 for surely the wages will be adequate to the toil.`"
 
+--
+
 From Plough Court, 7th mo.
 25th, 1787, she writes to
 
-John Pemberton:--
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+John Pemberton:
 
 "`About half an hour ago, dear Patience Brayton, etc., left us,
 taking an affectionate leave of dear Christiana Hustler, and poor me;
@@ -1304,6 +1453,8 @@ resigned to whatever may be permitted to attend.
 But this has been a bitter cup indeed.
 Our dear friends seem all sweet and easy.
 They go at 6 o`'clock tomorrow morning to Gravesend, to be on board at 11.`"
+
+--
 
 Christiana Hustler continuing with her,
 after the Yearly Meeting they were engaged in extensive and arduous service.
@@ -1332,10 +1483,14 @@ The protecting providence of the Father of mercies, is, indeed,
 repeatedly manifested to those whose care is cast upon him,
 and whose blindness is that which is peculiar to his messenger.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Christiana Hustler
 
-Brecknock in Wales, 11 mo.
-8th 1787.
+[.signed-section-context-open]
+Brecknock in Wales, 11 mo. 8th 1787.
 
 My last to you from Worcester informed of my intention to move with
 my dear friend L. H. and John Dearman into this principality.
@@ -1460,17 +1615,24 @@ and hold yourself in readiness to come to London and see the last "`of the
 child;`" pray for my preservation--pity all my weakness,
 and believe me to be yours in the precious bond of Gospel unity though your poor tried,
 
+[.signed-section-signature]
 Rebecca Jones
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Joseph Williams.
 
-Undercliffe, 1st mo.
-4th, 1783.
+[.signed-section-context-open]
+Undercliffe, 1st mo. 4th, 1783.
 
-Beloved Friend Joseph Williams,--You may perhaps
+[.salutation]
+Beloved Friend Joseph Williams,
+
+You may perhaps
 wonder to find my letter dated from this place,
 and truly, it is marvellous to myself also, that having been, as I apprehended,
 fully clear of the North, I should again be directed here, experiencing as a truth,
@@ -1496,11 +1658,19 @@ and don`'t forget your and your dear wife`'s kindness to me while with you.
 It is likely you have accounts directly from J. Pemberton, who is yet in Scotland;
 and from George Dillwyn, who has been mostly in London since the Yearly Meeting.
 
+[.signed-section-closing]
 I am, with dear love to your household, your assured affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
 
+--
+
 The next day writing to John Pemberton, she says:
+
+[.embedded-content-document.letter]
+--
+
 "`I believe I shall spend some time in London this winter,
 where dear George Dillwyn is still a prisoner;
 I trust a '`prisoner of hope.`' Whether he will be at liberty to return with me,
@@ -1522,6 +1692,8 @@ that I shall dishonour the great and good cause
 which is indeed dearer to me than life itself.
 May the good hand be with you in all your goings, and crown your labours with peace,
 whatever becomes of your poor unworthy friend and tried little sister.`"
+
+--
 
 About this time she became fixed in the prospect of
 being at liberty to return to America in the spring,
@@ -1589,12 +1761,19 @@ you are easy to come and take passage also,
 I then shall have fresh cause for humble thankfulness to Him
 who has so marvellously sustained us both to the present time.`
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Sally Hustler.
 
-Carshalton, 8th of 7th mo.
-1788.
+[.signed-section-context-open]
+Carshalton, 8th of 7th mo. 1788.
 
-My Dear Sally Hustler,--As the time of my departure from this country seems to draw nigh,
+[.salutation]
+My Dear Sally Hustler,
+
+As the time of my departure from this country seems to draw nigh,
 and as you (with the other branches of my worthy friends J. and Christiana
 Hustler`'s family,) have often been the object of my tender solicitude,
 I feel disposed (as we have a day`'s quiet rest here,)
@@ -1642,7 +1821,10 @@ shall conclude in the fresh feeling of dear love,
 craving to be had in all your remembrance, and being your truly, affectionate friend,
 conclude such, and bid you endearedly, Farewell in the Lord,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 As the time of her departure from England approached,
 many and touching were the evidences of that Christian friendship and
@@ -1696,4 +1878,3 @@ with emotions too deep for utterance, beyond the last farewell.
 "`But was it such?
 It was!
 Where they are gone Adieus and farewells are a sound unknown.`"
-

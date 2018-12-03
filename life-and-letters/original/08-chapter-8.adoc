@@ -1,8 +1,12 @@
 == Chapter VIII.
 
+[.chapter-subtitle--blurb]
 1791.
 
-Decease of John Hustler and of Sarah R. Grubb.--Letters--Visits Long Island, etc.
+[.chapter-synopsis]
+* Decease of John Hustler and of Sarah R. Grubb.
+* Letters
+* Visits Long Island, etc.
 
 1st Mo. 27th, 1791.
 She thus notices the decease of John Hustler.--"`I feel near
@@ -626,4 +630,3 @@ as E. Tuke says,
 with "`a lengthy speech now,`" but as I do feel
 very sincere esteem and love for thy dear wife,
 sister and children, please let them know it.
-

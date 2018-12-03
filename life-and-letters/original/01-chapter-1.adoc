@@ -1,13 +1,22 @@
 == Chapter I.
 
+[.chapter-subtitle--blurb]
 1739--1762.
 
-Introductory remarks--Her own account of her convincement and early life--Letter
-from Catherine Payton--She attends Yearly Meeting through ignorance of its select
-character--Is invited to meetings for discipline--Appears as a minister--Is
-acknowledged as such--Her mother's death--Is joined in the school by Hannah
-Cathrall--Makes several visits from home--Death of Daniel Stanton--Further
-particulars of her early history--Interview with the English Friends.
+[.chapter-synopsis]
+* Introductory remarks
+* Her own account of her convincement and early life
+* Letter from Catherine Payton
+* She attends Yearly Meeting through ignorance of its select character
+* Is invited to meetings for discipline
+* Appears as a minister
+* Is acknowledged as such
+* Her mother`'s death
+* Is joined in the school by Hannah Cathrall
+* Makes several visits from home
+* Death of Daniel Stanton
+* Further particulars of her early history
+* Interview with the English Friends.
 
 === Introductory remarks.
 
@@ -236,11 +245,16 @@ reverently to confide in the Lord's infinite mercy,
 I here transcribe at large.
 Peradventure it may revive the hope of some afflicted soul.
 
-"`Philadelphia.
-4th mo.
-1st, 1755.
+[.embedded-content-document.letter]
+--
 
-Dear Child,--I have carefully read thy letter, and,
+[.signed-section-context-open]
+"`Philadelphia. 4th mo. 1st, 1755.
+
+[.salutation]
+Dear Child,
+
+I have carefully read thy letter, and,
 from a tenderness of spirit which I feel towards thee,
 conceive much hope that thou wilt do well,
 if thou keep to that Power which has visited thee.
@@ -286,10 +300,14 @@ who, I believe, will use his utmost endeavours to convey it to thee.
 "`Farewell; and may the Lord continue to bless thee.
 I conclude, in much haste, thy sympathizing friend,
 
+[.signed-section-signature]
 Catharine Payton.
 
+[.postscript]
 "`P. S. I had rather thou kept this to thyself; and be sure,
 be careful how thou tellest thy condition to such who have no knowledge of it.`"
+
+--
 
 On the receipt and reading of this letter my heart was
 melted into great tenderness before the Lord,
@@ -400,7 +418,7 @@ she went up stairs, but seeing so many plain Friends, she felt uneasy,
 and as if she had no business there:
 which feeling was increased as she noticed a whispering near the clerk's table.
 Catharine Kallender, leaving her seat, went up stairs and sat by her;
-and seeing R. about to rise, she laid her hand upon her kindly,
+and seeing Rebecca about to rise, she laid her hand upon her kindly,
 and presently they both went out,
 when Catharine informed her that those meetings were exclusively for members,
 but that she believed the time was not distant
@@ -594,7 +612,8 @@ a workman that needed not to be ashamed,
 rightly dividing the word to every class in the family.
 "`Precious in the sight of the Lord is the death of his saints.`"
 
-+++[+++Here ends the autobiographical sketch which she probably designed resuming.]
+[.alt.centered]
+==== [Here ends the autobiographical sketch which she probably designed resuming.]
 
 The mother of Rebecca Jones, as has been mentioned in the preceding memoir,
 kept a school for small children.
@@ -753,4 +772,3 @@ after the decease of her mother,
 she entered into the business of teaching more extensively,
 in connection with Hannah Cathrall,
 the latter attending to the sewing department in a separate room.
-

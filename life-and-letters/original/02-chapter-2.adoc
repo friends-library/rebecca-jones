@@ -1,11 +1,19 @@
 == Chapter II.
 
-  1762--1783.
+[.chapter-subtitle--blurb]
+1762--1783.
 
-Her character as a teacher--Anecdotes of John Riddle and children--Rules of the
-school--Letters to various persons--Letter from Elizabeth Smith and sketch of her
-life--John Woolman to E. Smith--House in Drinker's Alley--Anecdote of John Woolman--
-Poetry by John Drinker--Opens her prospect for England.
+[.chapter-synopsis]
+* Her character as a teacher
+* Anecdotes of John Riddle and children
+* Rules of the school
+* Letters to various persons
+* Letter from Elizabeth Smith and sketch of her life
+* John Woolman to E. Smith
+* House in Drinker`'s Alley
+* Anecdote of John Woolman
+* Poetry by John Drinker
+* Opens her prospect for England.
 
 It might be laid down as an axiom,
 that none but a philanthropist is fit for the office of a teacher.
@@ -120,24 +128,29 @@ and whilst it would be unreasonable to expect to see them, in every respect,
 such as would now be framed, it will be well, in judging of them,
 to reflect what dignified characters were trained under their strict administration.
 
-Rules of Conduct for Girls at School.
+[.alt.centered]
+=== Rules of Conduct for Girls at School.
 
-1st. Never absent yourselves from school, unless good reasons can be assigned,
+[.numbered]
+__1st.__ Never absent yourselves from school, unless good reasons can be assigned,
 to the satisfaction of your mistress.
 
-2nd. Be always silent at your business, so that your voices shall not be heard,
+[.numbered]
+__2nd.__ Be always silent at your business, so that your voices shall not be heard,
 unless when you are saying your lessons, or speaking to your mistress;
 hold no discourse with your schoolmates during the hours of business,
 without your mistress's permission, unless to ask something relating to your learning,
 which must be done in a low voice.
 
-3rd. Make all your speeches to your mistress with due respect,
+[.numbered]
+__3rd.__ Make all your speeches to your mistress with due respect,
 observing cheerfully to perform her directions with dispatch, according to your ability.
 If a stranger should speak to you, give a modest and ready answer,
 standing up and turning your faces towards them respectfully, taking your seats again,
 and silently apply to your business.
 
-4th. Behave yourselves always in a humble, obliging manner to your schoolmates,
+[.numbered]
+__4th.__ Behave yourselves always in a humble, obliging manner to your schoolmates,
 never provoking one another, contending or complaining about frivolous matters,
 but courteously use the word please, or some soft and obliging expression,
 when you ask anything one of the other;
@@ -145,7 +158,8 @@ and observe to make some grateful return for any little kindness received,
 never returning injuries, but learning to forgive,
 showing by an exemplary deportment how all ought to behave.
 
-5th. Never tell a lie knowingly, nor use the name of God irreverently, or in vain;
+[.numbered]
+__5th.__ Never tell a lie knowingly, nor use the name of God irreverently, or in vain;
 mock not the aged, blind, lame, deformed, idiots.
 Play not in the streets, or ever for gain; throw no sticks, stones, dirt, snowballs,
 or anything at any person; revile none, utter no indecent expression,
@@ -153,21 +167,26 @@ and return no affront to any you may meet with,
 but according to the best of your knowledge, demean yourselves in a modest, civil,
 complaisant manner to all.
 
-6th. Let your language be the plain language, and spoken with propriety everywhere.
+[.numbered]
+__6th.__ Let your language be the plain language, and spoken with propriety everywhere.
 
-7th. Be not forward to divulge anything past in school,
+[.numbered]
+__7th.__ Be not forward to divulge anything past in school,
 nor jeer those who have been corrected, lest it should happen to be your own case.
 
-At Home.
+[.alt.centered]
+=== At Home.
 
-8th. Before you rise from your beds,
+[.numbered]
+__8th.__ Before you rise from your beds,
 observe to offer a mental petition to Divine Providence
 for protection from evil and danger the following day,
 not omitting at the same time a grateful acknowledgment for the benefit of your rest:
 observe also the same reverence at lying down,
 returning humble thanks for preservation through the various incidents of the day.
 
-9th. Observe to use a cheerful and ready compliance to all your parents' commands,
+[.numbered]
+__9th.__ Observe to use a cheerful and ready compliance to all your parents' commands,
 with becoming resignation to their will--never addressing or
 approaching them without honour and respect;
 neither be loud in voice or laughter in their company, or before any of your superiors,
@@ -177,19 +196,21 @@ never intrude yourselves upon them when alone, or with company,
 if you are necessitated to speak with them, appear with good manners,
 and be sure to whisper, and withdraw unless desired to stay.
 
-10th. Make all your addresses to your brothers
+[.numbered]
+__10th.__ Make all your addresses to your brothers
 and sisters with humility and good manners,
 using the word Please, etc.; and in like manner to the meanest servant,
 that your good example may induce them so to behave to you.
-
 If you are necessarily where the servants are, give no ear to their jesting or idle talk,
 much less join with them,
 but always choose the company of such whose
 conversation is most improving in the best things.
 
-At Table.
+[.alt.centered]
+=== At Table.
 
-11th. Be not forward to sit down at table before the rest have taken their places,
+[.numbered]
+__11th.__ Be not forward to sit down at table before the rest have taken their places,
 especially your elders or superiors; when seated,
 be not eager to fall to your victuals like the brute animals,
 but first observe a solemn retirement of mind to the Supreme Giver of them.
@@ -200,9 +221,11 @@ ready to answer any questions that may be asked of you; having eaten moderately,
 rise from table without noise, moving away your seats; withdraw if strangers be present,
 unless desired to stay.
 
-At Places for Worship.
+[.alt.centered]
+=== At Places for Worship.
 
-12th. When you attend meetings for Divine worship,
+[.numbered]
+__12th.__ When you attend meetings for Divine worship,
 observe to be present at the times appointed precisely,
 entering the place soberly and without noise in walking or otherwise,
 so as not to disturb the meditations of those that are met; when seated,
@@ -234,12 +257,19 @@ evinces that even then she was "`instant in season,`" under the Divine anointing
 in obeying the injunction, given to Peter, "`when thou art converted,
 strengthen thy brethren.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Benjamin Swift, and Samuel Sansom.
 
-Philadelphia, 8th mo.
-10th, 1759.
+[.signed-section-context-open]
+Philadelphia, 8th mo. 10th, 1759.
 
-Respected Friends,--It has been upon my mind ever since
+[.salutation]
+Respected Friends,
+
+It has been upon my mind ever since
 I heard of your intentions for England,
 in a great deal of good will, with desires for your welfare every way,
 to communicate in a few lines what I think quite necessary to observe.
@@ -261,16 +291,24 @@ and may know the Reprover, Refiner, Sanctifier and Comforter,
 making you vessels of honour to his praise.
 This is the sincere desire of your friend,
 
+[.signed-section-signature]
 Rebecca Jones
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Elizabeth Smith to Rebecca Jones.
 
+[.signed-section-context-open]
 Burlington, 23rd of 4th mo., 1759.
 
-Dear Friend Rebecca Jones.--As thy letter did not seem to require an immediate answer,
+[.salutation]
+Dear Friend Rebecca Jones,
+
+As thy letter did not seem to require an immediate answer,
 I thought best to defer it till a suitable time and opportunity
 offered to acquaint thee that I received it as a testimony of thy
 regard and a demonstration of love to the blessed truth,
@@ -303,7 +341,10 @@ as to have the happy experience made our own of its
 growing brighter and brighter unto the perfect day,
 is the sincere desire of my mind, with which I conclude, Thy assured friend,
 
+[.signed-section-signature]
 Elizabeth Smith.
+
+--
 
 The writer of the foregoing letter was sister to Samuel Smith the historian--
 and between her and Rebecca Jones a close fellowship existed,
@@ -382,9 +423,16 @@ this letter touchingly depicts the writer as
 faithfully attentive to his Master's interests,
 and full of kindness also to his fellow servants.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Woolman to Elizabeth Smith.
 
-Beloved Sister,--I have often had a tender feeling with thee in thy outward afflictions,
+[.salutation]
+Beloved Sister,
+
+I have often had a tender feeling with thee in thy outward afflictions,
 and I trust, in some measure, with thee in thy inward exercises.
 I believe our afflictions are often permitted by our
 heavenly Father for our more full and perfect refining.
@@ -412,25 +460,34 @@ and since often felt,
 as to the exemplariness of those things amongst thy furniture
 which are against the purity of our principles.
 
+[.signed-section-closing]
 I trust the Great Friend and Helper is near thee, in whose love I remain thy friend,
 
+[.signed-section-signature]
 John Woolman.
 
+[.signed-section-context-close]
 28th day 4th mo., 1772.
 
+[.postscript]
 I desired my wife to keep this letter for thee when she might see thee.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to C. Payton.^
-footnote:[C. Payton married in 1779.
+footnote:[C. Payton married William Phillips in 1779.
 Of course this letter which is without date, was written before that time.
-It is in the juvenile hand of R. J., and the date, it is supposed, should be 1789.
+It is in the juvenile hand of Rebecca Jones, and the date, it is supposed, should be 1789.
 If so, she was then about 20 years of age.]
 
-My dear and much esteemed friend,
-C+++.+++ Payton,--Feeling the arising of divine help and consolation in my soul,
+[.salutation]
+My dear and much esteemed friend, C. Payton,
+
+Feeling the arising of divine help and consolation in my soul,
 after a time of deep wading and travail in spirit before the Lord,
 I with a grateful sense of the salvation of a gracious God,
 and the tender care thou expressed for my welfare in thy last letter to A. B.,
@@ -466,11 +523,16 @@ I heard a few days ago that his family were well, and the young man, Benjamin Hi
 who had appeared at the Falls Meeting, seems to grow,
 and promisingly appears a well concerned minister.
 
+--
+
 In a copy of the epistle from the Yearly Meeting of Women Friends of Philadelphia,
 held Ninth month, 1755, to the corresponding body of London, preserved by Rebecca Jones,
 we note the following paragraphs, which are interesting in the present connection,
 as C. Phillips had been made to her the instrument of much good.
 (It is regretted that we have not been able to find their correspondence.)
+
+[.embedded-content-document.letter]
+--
 
 "`We have to inform you that this, our annual assembly,
 hath been large and attended with the continuation of heavenly and merciful regard,
@@ -494,6 +556,8 @@ having therein been favoured with renewings of strength from the Divine hand,
 and also with the acceptable company and solidly helpful labours of
 our well beloved friends Mary Peisley and Catharine Payton.`"
 
+--
+
 As she was early associated in religious service with Rachel Wilson,
 the following testimony of the same meeting, given in like manner in 1769,
 having been preserved by Rebecca Jones, may here be inserted.
@@ -507,12 +571,19 @@ of those important truths relative to life and salvation,
 but have likewise tended to the building up and edifying of the body in love;
 that praises may ascend to Him, who is over all worthy forever.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to M. Rickey.
 
-Philadelphia.
-1759.
+[.signed-section-context-open]
+Philadelphia. 1759.
 
-Respected Friend,--It appears to me plainly,
+[.salutation]
+Respected Friend,
+
+It appears to me plainly,
 that the query proposed to thee is not applicable,
 because they that pretend to no supernatural wisdom make no pretensions to religion,
 and so differ little from the animal part of creation;
@@ -579,7 +650,10 @@ that being quickened by the life of religion, we may be able to glorify God in o
 age and generation, and that, whether single or married, living or dying,
 we may have the evidence in ourselves that we are his,--is what I earnestly desire.
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 An ancient mansion stands No. 8, Drinker's alley, Philadelphia.
 Its kitchen window, which opens to the westward, afforded, at the time of which we write,
@@ -596,21 +670,21 @@ We have lying before us several specimens of his more careful penmanship,
 in writing copies performed by him to be imitated by the pupils of his friend,
 and which were used in her school, of which he was an occasional visitor.
 
+[verse]
+____
 "`Knowledge shall be promoted by frequent exercise.`"
 
 "`Happy hours are quickly followed by amazing vexations.`"
 
-"`Just be thy thought and every word sincere,
-
+"`Just be thy thought and every word sincere,`"
 "`And know no wish but what the world may hear.`"
 
-"`If thou knowest Christ, thou needst know little more--
-
+"`If thou knowest Christ, thou needst know little more;`"
 "`If not, all's lost that thou hast known before.`"
 
 "`Censure none rashly; Nature's apt to halt;`"
-
 "`Look inward; He's unborn that has no fault.`"
+____
 
 On the night succeeding the Select Quarterly Meeting-day, in the Second month,
 probably about the year 1762, a great fall of snow occurred,
@@ -656,12 +730,19 @@ engaged in religious service abroad with a certificate.
 esteemed friends Rebecca Jones and Joyce Benezet,
 to our satisfaction and comfort.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Elizabeth Robinson, (then In England.)
 
-Philadelphia, 6th mo.
-25, 1775.
+[.signed-section-context-open]
+Philadelphia, 6th mo. 25, 1775.
 
-My beloved Friend,--As thou hast been so particularly near my spirit to-day,
+[.salutation]
+My beloved Friend,
+
+As thou hast been so particularly near my spirit to-day,
 I thought this evening, while my dear Hannah is at meeting,
 I would stain a little more paper in writing to thee.
 I wrote thee by Capt.
@@ -723,7 +804,10 @@ whatever conflicts and difficulties may attend.
 
 My spirit salutes thee in true gospel fellowship, and bids thee farewell in the Lord.
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 Respecting this friend, Rebecca Jones has left the following brief note:
 
@@ -735,12 +819,19 @@ Of a visit performed in 1779, within the limits of Baltimore,
 and probably also of Virginia Yearly Meeting,
 little is known beyond what is contained in the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Warner Mifflin.
 
+[.signed-section-context-open]
 Philadelphia., 8th mo., 1779.
 
-Esteemed Friend,
-Warner Mifflin,--Although I was somewhat disappointed
+[.salutation]
+Esteemed Friend, Warner Mifflin,
+
+Although I was somewhat disappointed
 on the return of my dear companion from your Quarter,
 she informing me thou had not found time to write to me,
 I feel the prevalence of that disposition ever worthy of aspiring after,
@@ -809,17 +900,24 @@ Matchless love and mercy! which we can never too much adore,
 nor will the greatest returns in our power to make,
 be adequate to such infinite loving-kindness.
 
+[.signed-section-signature]
 Rebecca Jones
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 David Sands to Rebecca Jones And Hannah Cathrall.
 
-New Cornwall, 10th of 9th mo.
-1781.
+[.signed-section-context-open]
+New Cornwall, 10th of 9th mo. 1781.
 
-Dear Friends,--We read, as from the lips of our blessed Lord,
+[.salutation]
+Dear Friends,
+
+We read, as from the lips of our blessed Lord,
 that blessed are the poor in spirit.
 I have viewed you as a part of this number, who have your way through much poverty,
 and at times great tribulation,
@@ -872,17 +970,24 @@ Thus my dear friends and sisters,
 I shall conclude with desire for your prosperity every way,
 and remain your truly loving and affectionate friend,
 
+[.signed-section-signature]
 David Sands.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Edward Cathrall.
 
-Philadelphia, 7th mo.
-25th, 1782.
+[.signed-section-context-open]
+Philadelphia, 7th mo. 25th, 1782.
 
-Dear Edward,--Since thou left thy father's house
+[.salutation]
+Dear Edward,
+
+Since thou left thy father's house
 my mind has many times turned towards thee,
 sincerely desiring that thou mayst not only witness preservation from every
 temptation that may present to draw thee still further from the path of innocence,
@@ -916,7 +1021,10 @@ as thy grand parents did.
 Keep this letter to thyself, and read it over leisurely,
 it is the language of one of thy best friends.
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 5th mo., 5th, 1783,
 Rebecca Jones notes.--"`I awoke this morning with the following passage:
@@ -932,4 +1040,3 @@ upon which she was soon to enter; and under the last date, she remarks,
 "`Divine help was near,
 and our spirits were baptized together under its blessed influence.`"
 29th, she notes, "`10 o'clock--a still, clear sky--an awful shock of an earthquake.`"
-

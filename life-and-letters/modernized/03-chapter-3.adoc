@@ -1,12 +1,18 @@
 == Chapter III.
 
-1784+++.+++
+[.chapter-subtitle--blurb]
+1784
 
-Credentials for England--Embarcation--Anecdotes of Samuel Emlen, George Dillwyn,
-etc.--Letter from Capt.
-Truxton--Reaches Liverpool,
-London--Christiana Hustler joins her--Letter to Hannah Cathrall--
-Establishment of Women`'s Yearly Meeting--Extract from a Curious Letter.
+[.chapter-synopsis]
+* Credentials for England
+* Embarcation
+* Anecdotes of Samuel Emlen, George Dillwyn, etc.
+* Letter from Capt. Truxton
+* Reaches Liverpool, London
+* Christiana Hustler joins her
+* Letter to Hannah Cathrall
+* Establishment of Women`'s Yearly Meeting
+* Extract from a Curious Letter.
 
 Having long felt an engagement to make a religious visit beyond the Atlantic,
 a certificate was granted her by Philadelphia Monthly Meeting for the Northern District,
@@ -26,9 +32,16 @@ which lately reviving with increasing weight, she has now solidly communicated t
 The following certificate was granted by the Select Yearly Meeting,
 held by adjournments from the 27th of 3rd month, to the 30th of the same, inclusive.
 
+[.embedded-content-document.testimony]
+--
+
+[.blurb.centered]
 To our Brethren and Sisters in Great Britain, Ireland, and elsewhere in Europe.
 
-Dear Friends:--We salute you in a thankful sense of the continued love of Christ,
+[.salutation]
+Dear Friends:
+
+We salute you in a thankful sense of the continued love of Christ,
 through the efficacy whereof faithful servants are drawn forth to labour in his Church;
 and commend unto you Rebecca Jones, our much esteemed sister, who has,
 with the approbation of the Monthly and Quarterly Meetings,
@@ -46,7 +59,10 @@ to the honour of Truth, her own peace, and the comfort of the faithful among you
 to whose tender sympathy and Christian fellowship we affectionately recommend her,
 and remain your loving friends.
 
+[.signed-section-signature]
 +++[+++Signed by 130 Friends.]
+
+--
 
 These testimonials, given forth by the church,
 are well calculated to introduce her to the
@@ -219,6 +235,7 @@ The lead was then thrown, and, in reference to it,
 the compiler turning for confirmation to Captain Truxton`'s sea journal,
 finds the following note:
 
+[.offset]
 "`Sunday, 23rd May.
 At six o`'clock sounded,
 got 42 fathoms water--shells and rotten brown stones--at seven
@@ -334,7 +351,7 @@ nurse, and helper, Sarah Dillwyn, has been particularly attentive to our various
 I esteem myself under great obligations to her; may her labour be acceptable,
 and rewarded by the great Master,
 who has promised that they who give a '`cup of cold water in the name of a disciple,
-shall receive a disciple`'s reward.`' And in the course of this voyage; Wra,
+shall receive a disciple`'s reward.`' And in the course of this voyage; William
 Ludlam (one of the passengers--an obliging, sensible,
 well behaved man) having a stone bruise on his heel, and Samuel Emlen, and Thomas Ross,
 having, by the motion of the ship, slipped and hurt themselves,
@@ -498,9 +515,19 @@ On this day (the 23rd) the Captain, who had conceived a high respect for our fri
 which he afterward repeatedly evinced, presented her with a copy of his sea journal,
 in his own writing, with the following letter written upon the first page.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To Rebecca Jones
+
+[.signed-section-context-open]
 "`On board the Commerce, in the English Channel, May 23rd, 1784.
 
-"`Madam,--Our passage, in all probability, being now nearly at an end,
+[.salutation]
+"`Madam,
+
+Our passage, in all probability, being now nearly at an end,
 give me leave to present you a copy of my journal,
 which contains all the observations that were essentially necessary
 for our guide and direction across the Atlantic Ocean;
@@ -521,9 +548,12 @@ respecting the ship, winds and weather.
 and be the instrument of enlightening the minds of many in this
 eastern world (as I am satisfied that is your errand,) and return
 safely back to your connections and friends in America,
-rewarded by heaven for your labours, is the sincere wish of your friend, Thomas Truxton.
+rewarded by heaven for your labours, is the sincere wish of your friend,
 
-To Rebecca Jones.`"
+[.signed-section-signature]
+Thomas Truxton.`"
+
+--
 
 The Journal thus commences:
 
@@ -738,4 +768,3 @@ Thus I have however obtained a teachable lesson of the strength and danger of pr
 as well as to learn condescension to such as are entitled to it:--for
 to set my own judgment and feeling in opposition to my superior,
 would be a presumption that I should not pardon myself for.`"
-
