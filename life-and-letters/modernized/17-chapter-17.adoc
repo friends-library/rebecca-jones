@@ -1,14 +1,23 @@
 == Chapter XVII.
 
+[.chapter-subtitle--blurb]
 1813--1817.
 
-Typhus Fever.--Prayer.--Green Street Meeting.--Attends Twelfth Street Meeting.--Is
-at North Meeting for the last time.--Death of Thomas Scattergood and message to
-Susanna Home.--Letter to Sarah Hustler.--Intimation respecting S. Home`'s arrival
-in England.--Warning to a Minister.--Her last letter to S. Hustler--Bernice
-Allinson`'s account of Rebecca Jones`'s death Reflections by Enoch Lewis.--John Cox.
---Passages from her Will,
-and Concluding Remarks.
+[.chapter-synopsis]
+* Typhus Fever
+* Prayer
+* Green Street Meeting
+* Attends Twelfth Street Meeting
+* Is at North Meeting for the last time
+* Death of Thomas Scattergood and message to Susanna Home
+* Letter to Sarah Hustler
+* Intimation respecting S. Home`'s arrival in England
+* Warning to a Minister
+* Her last letter to S. Hustler
+* Bernice Allinson`'s account of Rebecca Jones`'s death
+* Reflections by Enoch Lewis
+* John Cox
+* Passages from her Will, and Concluding Remarks
 
 In the early part of the year 1813 she was prostrated by a typhus fever;
 and although she was raised, contrary to the expectations of her friends,
@@ -158,12 +167,19 @@ yet shining with a continual and undiminished brightness,
 conveyed to her a lively representation of that unalterable and
 perfect state of happiness in which he was now immutably placed.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Sarah Hustler.
 
-Philadelphia, 3rd mo.
-8th, 1813.
+[.signed-section-context-open]
+Philadelphia, 3rd mo. 8th, 1813.
 
-My Dearly Beloved Sarah.--Through the tender mercy of "`the
+[.salutation]
+My Dearly Beloved Sarah,
+
+Through the tender mercy of "`the
 Lord who heals,`" I am continued in this probationary state,
 and have received your kind long letter by our dear friend Stephen Grellet, who has,
 in good health and in peace of mind, arrived among us,
@@ -193,7 +209,7 @@ Since then dear N. Waln has gone.
 Our North Meeting has divided--two new houses are built.
 Dear S. Smith remains a living monument of divine love and life.
 Salute dear Martha Routh, A. Alexander, William Tuke,
-J. and E. Hoyland and my other acquaintances as they fall in your way.
+J+++.+++ and E. Hoyland and my other acquaintances as they fall in your way.
 Give my love to E. Coggeshall, and tell her to do all that her hand finds to do.
 My love to dear S. Hornt--her friends at Burlington are well.
 You can hardly tell how we miss our dear Thomas Scattergood--but all is well with him.
@@ -203,7 +219,10 @@ You know I used to write a long letter, but now let it suffice to say,
 I am patiently waiting till my change comes, and this may be my last.
 In best love I remain your very affectionate and nearly united friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 While confined by her infirmities to the house,
 it was her practice to have the Bible placed upon a table
@@ -284,11 +303,19 @@ and who retains a vivid remembrance of the scene, was also greatly affected.
 A regard to individual character forbids us to raise the veil
 from the affecting realization of her worst forebodings.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Sarah Hustler.
 
-Philadelphia 4th mo.
-20th, 1816.
-My dear friend S. Hustler,--I ought to have made a more quick answer
+[.signed-section-context-open]
+Philadelphia 4th mo. 20th, 1816.
+
+[.salutation]
+My dear friend S. Hustler,
+
+I ought to have made a more quick answer
 to your very acceptable lines by our dear Stephen Grellet,
 but I can hardly persuade myself that you can read such a scrawl, and I can do no better.
 You may know by this that I love you for your own and your dear Mother`'s sake,
@@ -331,7 +358,10 @@ Don`'t forget your old friend--and let me hear from you once more.
 I am nearly blind, near seventy seven years of age,
 and your sincere friend and sister in the bonds of the gospel,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 As increasing and certain tokens were given of the approaching dissolution of "`the
 earthly house,`"--the union between "`Naomi and Ruth`" was beautiful to behold.
@@ -346,13 +376,13 @@ He also freshly remembers being summoned by Rebecca
 Jones to partake with her of her last meal,
 and the sweetness of her countenance when
 
+[verse]
+____
 "`We knew that the hour was drawing nigh
-
 To fulfil every fearful token--
-
 When the silver cord should loosen its tie,
-
 And the golden bowl be broken.`"
+____
 
 The following brief notes relative to her last illness and closing scene,
 are from the pen of her beloved Bernice Allinson and were
@@ -455,6 +485,7 @@ was now removed to the church triumphant in Heaven.
 There had not been any left, since the decease a few years previous of James Pemberton,
 who was a member of that meeting at the time when she was introduced.`"
 
+[.offset]
 +++[+++In introducing the following remarks by Enoch Lewis,
 the Compiler takes occasion to acknowledge his grateful sense
 of the value of the notes (by which this volume is enriched,)
@@ -508,4 +539,3 @@ in her varied trials, rose up in vivid remembrance, the recollection was still a
 that their voices would be heard no more;
 yet no doubt these recollections were often attended by the consoling assurance,
 that they were resting from their labours, and that their works would still follow them.
-

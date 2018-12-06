@@ -16,6 +16,9 @@ in trust for poor friends of North Meeting,
 she constitutes Bernice Allinson her sole residuary legatee,
 and she concludes in these words:
 
+[.embedded-content-document.letter]
+--
+
 "`In confirmation hereof after acknowledging with gratitude and in
 humility of soul the tender and infinite mercy of the Lord Almighty,
 which has in numberless instances been signally vouchsafed and
@@ -25,12 +28,19 @@ through the merits of my blessed Saviour and Redeemer Jesus Christ,
 to be admitted into his holy kingdom when I shall put off this earthly tabernacle;
 and in peace and unity with his Church under every name,
 
+[.signed-section-signature]
 Rebecca Jones.
 
+[.signed-section-context-close]
 Signed sealed etc., the 9th of ye 3rd month 1816.`"
+
+--
 
 It would be unjust in her Biographer to omit
 transcribing the following passage from the said will.
+
+[.embedded-content-document.letter]
+--
 
 "`I give to George Dillwyn, Samuel Emlen, and John Cox of Burlington,
 and Leonard Snowdon and Thomas Stewardson of this city, in trust,
@@ -41,6 +51,8 @@ etc.,
 and it is my further request that no written testimony or
 account may be issued concerning me,--I having often been
 pained under the reading of such marks of distinction.`"
+
+--
 
 A portion of the manuscripts thus entrusted to the wise and excellent men above named,
 had, previous to her decease,

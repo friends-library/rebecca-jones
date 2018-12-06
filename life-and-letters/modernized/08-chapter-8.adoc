@@ -41,6 +41,10 @@ ____
 A letter from George Dillwyn to Rebecca Jones mentioning the
 decease (in her 35th year) of Sarah Grubb,
 (with whom he had been associated in recent religious service on the continent) says,
+
+[.embedded-content-document.letter]
+--
+
 "`She closed the relation which she gave to the Quarterly Meeting of Cork,
 of our mission to the Continent,
 with a declaration of her belief that although we had done little,
@@ -55,8 +59,13 @@ whose endowments and dedication are equalled by few of the present generation,
 and to whose memory, I believe, as general a tribute of tears has been paid,
 as to any person with whom I was ever acquainted.`"
 
+--
+
 In writing to Christiana Hustler, 4th mo.
 29th, 1791, after referring to the peaceful exit of John Hustler, she thus continues:
+
+[.embedded-content-document.letter]
+--
 
 "`I trust your minds are, with mine, fully persuaded, that with him, the end,
 being happy, crowned all.
@@ -82,6 +91,8 @@ Our ancient friend Robert Willis was interred about twelve days ago, and we have
 within a few months, been stripped by death of several valuable friends,
 both in city and country.
 Thus we are all passing away, from time to an awful eternity.`"
+
+--
 
 In retrospect of the visit to Long Island, her prospect of which is above alluded to,
 she notes, 11th Mo. 15th, "`Through the continuance of the heavenly Shepherd`'s care,
@@ -120,7 +131,7 @@ to join their sisters in this truly christian work.
 and Samuel Smith on board, is in the river`"--and on the same day, she adds,
 "`Soon after penning the above, our dear friends arrived.
 They look well every way, being, I trust, sweet and peaceful in their spirits.
-Wo met on the wharf; it was a joyously melting season,
+We met on the wharf; it was a joyously melting season,
 and I waited on them to their respective lodgings.
 Friends, generally, rejoiced to see them,
 and I am truly thankful to the Father of mercies for this renewed favour,
@@ -146,8 +157,13 @@ the Leader forth and reward of his people.`"
 
 This interesting scene is well described by herself in the following letters.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Mary Bevan.
 
+[.signed-section-context-open]
 Philadelphia, 10th month 28th, 1791.
 
 Our dear friends George and Sarah Dillwyn, and S. Smith,
@@ -180,6 +196,8 @@ of whom he gave me a comforting account.
 The particular trials on their passage, you will, I have no doubt, have from themselves.
 They look particularly well,
 and appear to be in possession of the reward for faithfulness.
+
+--
 
 11th month 3rd,
 she writes to Esther Tuke,--"`We received our dear friends George and Sarah Dillwyn,
@@ -216,8 +234,13 @@ unreserved dedication of body, soul and spirit to the service of that God,
 whom to obey and follow in all things, was her meat and drink--yes, her all in all,
 unto the end.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Christiana Hustler.
 
+[.signed-section-context-open]
 11th month 15th, 1791.
 
 Our friends Samuel Smith and George and Sarah Dillwyn, seem peacefully at home,
@@ -243,6 +266,8 @@ engaging the evenings of this winter.
 Oh, what a loss to the Church, is her removal!
 Yet I believe it is in Wisdom and mercy unutterable.`"
 
+--
+
 Rebecca Jones, in compliance with the request conveyed by Esther Tuke,
 made copious extracts from the numerous letters of Sarah Grubb to herself,
 and to Hannah Cathrall,
@@ -259,9 +284,16 @@ and crown about half an inch in height, is well remembered by the compiler.
 Such an appendage to the head of one of our female ministers, would, in this day,
 make quite a sensation.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 11th month 5th, 1791.
 
-Beloved friend, Martha Routh,--Your kind letter, by my old friend and near neighbour,
+[.salutation]
+Beloved friend, Martha Routh,
+
+Your kind letter, by my old friend and near neighbour,
 Samuel Smith, has laid me under sufficient obligation,
 without the addition of a new English hat.
 Why, dear woman, I can never compensate for former marks of your sisterly attention,
@@ -313,10 +345,15 @@ and most of the meetings;
 and we returned home in as hot a spell of weather as I ever remember.
 But we were so brisk and lively that we walked about without our staves.
 
+--
+
 After relating an accident to R. Wright, who, she says,
 "`after having driven safely so many thousands of miles in Europe and America,
 separated from her dear Nathan, made out to overturn herself in a chaise,
 near her own home, and lie with her, on horseback`"--Rebecca Jones adds:
+
+[.embedded-content-document.letter]
+--
 
 "`In our late partnership journey, you were frequently the subject of our conversation,
 in that love which many waters cannot quench;
@@ -334,7 +371,10 @@ the acquiescence of his will to the divine call,
 wherever it may lead.
 With this desire, and with dear love, I conclude, your poor little affectionate sister,
 
+[.signed-section-signature]
 Rebecca Jones.
+
+--
 
 She continued to board with James Goram till the year 1792,
 when having concluded to rent a house,
@@ -408,12 +448,19 @@ It seems to be apprehended that those in that country who conceive
 themselves interested in the continuance of the slave trade,
 will yet have power to prevent an immediate and total abolition.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To S. Hustler
 
-Philadelphia, 6th mo.
-9th, 1792.
+[.signed-section-context-open]
+Philadelphia, 6th mo. 9th, 1792.
 
-My dear S. Hustler,--Your truly acceptable epistle of the 17th of Second month,
+[.salutation]
+My dear S. Hustler,
+
+Your truly acceptable epistle of the 17th of Second month,
 came duly by the ship Grange, and is now before me.
 Its contents are all interesting to me,
 as my love and friendship to and for your whole family remain undiminished, and will,
@@ -434,7 +481,7 @@ He that has called us is faithful--He has promised to
 be with his own to the end of the world!`"
 
 I have frequent conversation with my near neighbour, S. Smith;
-that S. S. you thinks so much resembles poor me, though by the by I don`'t think so,
+that S. S. you think so much resembles poor me, though by the by I don`'t think so,
 or else I might be proud.
 We often talk about you, and his account of you and some others, is what comforts me,
 and, in some degree, answers my expectations.
@@ -472,11 +519,15 @@ when we were together, do I salute you, dear child, desiring the Almighty Father
 friend and helper of His people, may keep and preserve us among His own sheep,
 and finally own us as His, when done with time.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Esther Tuke.
 
+[.signed-section-context-open]
 Eleventh month 30th, 1792.
 
 "`I believe from some peculiar sensations and late intimations,
@@ -495,6 +546,8 @@ and among them a mulatto woman, named Hannah Burrows, who has sometimes kneeled,
 and the meeting has risen.
 In her appearances, Friends savour the gospel.`"
 
+--
+
 The coloured woman above referred to,
 continued to speak occasionally in meetings to the satisfaction of Friends.
 A Friend who knew her, and who mentions her peaceful death,
@@ -502,7 +555,12 @@ remembers Thomas Scattergood calling to her, in North Meeting, "`Raise your voic
 Hannah.`"
 
 Fourth month 15th, 1793, in a letter to Christiana Hustler,
-she says--"`I have a prospect of again moving about in
+she says--
+
+[.embedded-content-document.letter]
+--
+
+"`I have a prospect of again moving about in
 that line of service which opens as the path of peace;
 being likely to set off in a few weeks for Long Island and Rhode Island,
 and to have Lydia Hoskins, a choice-spirited young minister, for my companion;
@@ -529,6 +587,8 @@ praying that we may be helped so to steer through the troubles of lime, as that 
 of His unmerited mercy, find an everlasting resting place with Him,
 when time to us shall be no more.`"
 
+--
+
 The epistle of Philadelphia Yearly Meeting of Women Friends,
 to the corresponding body in London, issued Ninth month, 1793,
 thus affectionately refers to the Friends mentioned above;
@@ -536,7 +596,10 @@ and evinces also the readiness on the part of Friends in this country, to receiv
 with cordiality, for the Truth`'s sake, the ministers of Christ,
 when sent forth as ambassadors for him.
 
-Your mention of our dear friends, Samuel Emlen, Job Scott,
+[.embedded-content-document.letter]
+--
+
+"`Your mention of our dear friends, Samuel Emlen, Job Scott,
 and Sarah Harrison`'s acceptable service with you, is truly comfortable;
 and we desire that they, with dear George Dillwyn and Elizabeth Drinker,
 may be sustained and strengthened to finish the work which may be assigned them,
@@ -547,8 +610,13 @@ We hope, when so favoured, they will be acceptably received, and aided as necess
 by such as may be continued, willing to entertain strangers,
 and to wash the disciples`' feet.`"
 
+--
+
 The same epistle thus notices the awful scourge which
 will be more particularly mentioned in the next chapter.
+
+[.embedded-content-document.letter]
+--
 
 "`Our meeting is unusually small by reason of great sickness and contagion
 in this city--yet several friends from different Quarterly Meetings,
@@ -556,10 +624,15 @@ having resigned their lives into the Lord`'s hand,
 have ventured in--and their countenances, with the sensible help of their spirits,
 have been witnessed as balm to our minds.`"
 
+--
+
 Fourth month 23rd, 1793.
 Our friend was furnished, by Northern District Monthly Meeting,
 with the following certificate,
 addressed "`To our Friends and Brethren in the governments of New York and New England.`"
+
+[.embedded-content-document.letter]
+--
 
 "`Our beloved sister, Rebecca Jones,
 having for some time been under a religious engagement of mind to
@@ -574,7 +647,13 @@ desiring that her labours may, through the Divine blessing,
 prove to the comfort and edification of the church, and her own true peace.
 We salute you in gospel fellowship, and remain
 
-(Signed by 84 Friends.) Your loving friends.`"
+[.signed-section-closing]
+Your loving friends.`"
+
+[.signed-section-signature]
+(Signed by 84 Friends.)
+
+--
 
 Of this visit, in which she was accompanied by Lydia Hoskins, little record being found,
 we subjoin the testimony of the church.
@@ -594,9 +673,16 @@ essay toward a correspondence with the Women`'s Y. M. of London,
 we hope and trust will, under the divine blessing,
 tend to our mutual comfort and edification.`"
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Newport, Rhode Island, 10th of 6th mo., 1793.
 
-Dear Friend, H. Drinker,-- Through the care and protection of kind Providence,
+[.salutation]
+Dear Friend, H. Drinker,
+
+Through the care and protection of kind Providence,
 L+++.+++ Hoskins and myself have been helped thus far in safety on our way.
 We arrived here,
 after a 40 hours passage,--about twenty in company--in the packet from New York,
@@ -630,4 +716,5 @@ as E. Tuke says,
 with "`a lengthy speech now,`" but as I do feel
 very sincere esteem and love for your dear wife,
 sister and children, please let them know it.
- 
+
+--

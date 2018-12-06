@@ -1,13 +1,19 @@
 == Chapter XI.
 
+[.chapter-subtitle--blurb]
 1798--1799.
 
-Description and character of Rebecca Jones--She sends for T.
-Harrison to rescue a captured Negress--Shipwreck and arrival
-of Mary Prior--S. Grellet acknowledged as a minister,
-1798--Visits Rahway etc Attends Burlington Quarterly Meeting--Letters
-to and from Jane Snowdon--Goes to Edgely--Letters to Martha Allinson,
-etc.--Change in time of Philadelphia Yearly Meeting.
+[.chapter-synopsis]
+* Description and character of Rebecca Jones
+* She sends for T. Harrison to rescue a captured Negress
+* Shipwreck and arrival of Mary Prior
+* Stephen Grellet acknowledged as a minister, 1798
+* Visits Rahway etc.
+* Attends Burlington Quarterly Meeting
+* Letters to and from Jane Snowdon
+* Goes to Edgely
+* Letters to Martha Allinson, etc.
+* Change in time of Philadelphia Yearly Meeting.
 
 Rebecca Jones was, in person as in mind, finely majestic.
 In her earlier years, and until her embarkation for England, she was slender,
@@ -20,7 +26,7 @@ Yet there was without assumption on her part, a queenly dignity,
 a tout ensemble of nobleness, which drew from all the willing tribute of respect.
 "`Here Sits Our Queen Upon Her Throne`" said Thomas Scattergood, playfully,
 as he entered her chamber in her declining years.^
-footnote:[This, visit of Thomas Scattergood was during the week of Y. M. in 1814,
+footnote:[This visit of Thomas Scattergood was during the week of Yearly Meeting in 1814,
 and the last time he was out of his own house.]
 "`Ah, Thomas,`" she replied, "`sometimes my palace, sometimes my prison.`"
 "`Oh,
@@ -76,8 +82,12 @@ and with her mouth making confession unto salvation,
 and free from the tendency of narrow minds to "`hold the Truth in parts`" she
 brought extraordinary qualifications to her aid in yielding to the heavenly call
 
-"`Negotiate between God and man As God's ambassador,
-the grand concerns of judgment and of mercy.`"
+[verse]
+____
+"`Negotiate between God and man
+As God`'s ambassador, the grand concerns
+Of judgment and of mercy.`"
+____
 
 She was eminent for pleading the cause of the poor, and for acting,
 as we shall have occasion to notice, as an almoner to the rich;
@@ -196,23 +206,20 @@ admits of an easy explanation.--Ed. Friends' Review.]
 The following entry in her "`Poor Will's Pocket Almanac for the year 1798,`" is the
 only metrical attempt by Rebecca Jones which has come to our knowledge.
 
+[verse]
+____
 And now begins another year!
-
 Lest I should fail I almost fear!
-
- My resolutions now are good;
-
+My resolutions now are good;
 But, of himself hath no man stood.
 
 To thee, Oh Lord, my soul doth look--
-
 All other help I have forsook,
-
 Therefore on Thee will I depend,
-
-My sure, my everlasting Friend!`"
+My sure, my everlasting Friend!
 
 1st Mo. 1st. 1798, 4 o'clock, P. M.
+____
 
 Albeit her character as a wise woman may be best sustained in her prose,
 and although we admit the New Year resolutions to be better than the poetry,
@@ -306,7 +313,12 @@ before so many persons--Why could you not have told me all this in private?`"
 Of course he was satisfied upon a proper explanation.
 
 Seventh month 16th,
-1798.--In a letter to Martha Routh she says--"`Thy being so
+1798.--In a letter to Martha Routh she says:
+
+[.embedded-content-document.letter]
+--
+
+"`Thy being so
 renewedly and quickly commissioned for service in the family,
 is animating to me, a poor, feeble soldier.
 May 'thy heart endure and thy hands be strong, whatever becomes of me,
@@ -320,7 +332,7 @@ Of this number, I have a lively prospect concerning H. L. Fisher,^
 footnote:[This friend, subsequently Hannah Logan Smith,
 is freshly remembered by many of our readers.
 Her husband James Smith (who was associated with Leonard Snowdon, Thomas Stewardson,
-and Johns Hopkins as executors to R. J's. last will,) was one who,
+and Johns Hopkins as executors to Rebecca Jones`' last will,) was one who,
 by his christian humility and unblemished integrity,
 adorned the doctrine and confirmed the profession of Truth,
 and is worthy to be held in remembrance.]
@@ -335,6 +347,8 @@ that increase of righteousness which,
 doubtless, the great Lord of the harvest designs; but as for us,
 I fear we are too much in Jeshurun's state.`"
 
+--
+
 Early in the Eighth month, 1798, Rebecca Jones and Bernice Chattin left the city,
 and pausing at Frankford to visit Nicholas Waln, proceeded to Locust Grove,
 the residence of R. Hartshorne.
@@ -345,13 +359,15 @@ they went to the Quarterly meeting at Burlington, where Rebecca Jones notes,
 
 At Burlington she writes, Eighth month 26th, to Jane Snowdon--
 
+[.embedded-content-document.letter]
+--
+
 "`The meeting this morning was very large--many of our fellow-citizens are here.
 Indeed the town seems crowded, and more came up to-day.
 By these we hear heavy tidings, that T. Paxson, S. Grellet, and others, are taken down,
 so that my mind is clothed with sadness on account of those who remain in the city,
 and the prayer of my mind is that my beloved friends may be supported
 under this great and renewed trial of faith and patience.
- 
 
 "`Oh poor Philadelphia! is the mournful musing of my spirit, by day and by night.
 May its mournful inhabitants be instructed by all with which we have met,
@@ -360,9 +376,14 @@ so as availingly to experience our only place of defense to be the munition of r
 where bread may be given us, and our water be sure,
 is the petition of your afflicted and affectionate friend and sister.`"
 
+--
+
 Returning to Rahway, she remained till near the time of the Yearly Meeting.
 From this place she wrote, 9th mo.
 11th, to Leonard Snowdon:
+
+[.embedded-content-document.letter]
+--
 
 "`As I sat yesterday in Plainfield Meeting (about five miles from here) my mental
 visit to the small exercised remnant in our poor city was sweetly refreshing--yea,
@@ -374,11 +395,21 @@ sustain you above the raging billows, guide you by his counsel,
 and finally crown your conflicting minds with unshaken peace.
 Perhaps I was brought near in remembrance to some of my dear friends at the same time.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Jane Snowden to Rebecca Jones
 
-Philadelphia, 9th month 28th, 1708.
+[.signed-section-context-open]
+Philadelphia, 9th month 28th, 1798.
 
-My dear friend,--I feel so much weakness and poverty that I scarcely
+[.salutation]
+My dear friend,
+
+I feel so much weakness and poverty that I scarcely
 know how to take hold of my pen to salute thee by letter;
 nevertheless,
 I apprehend I feel at times a degree of that love by
@@ -426,18 +457,27 @@ forever to keep our confidence in the Shepherd of Israel,
 and in the day of trouble endeavour to take refuge under his Holy Wing,
 and then all will be well.
 
+[.signed-section-closing]
 Believe me to be, as I am, thy truly affectionate friend,
 
+[.signed-section-signature]
 Jane Snowden.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Jane Snowdon.
 
+[.signed-section-context-open]
 Burlington, 10th month 4th, 1798.
 
-Dearly beloved Jane,--Thy precious letter of the 28th
+[.salutation]
+Dearly beloved Jane,
+
+Thy precious letter of the 28th
 ultimo would have been replied to before now,
 but wishing to inform thee that I had got to Edgely, prevented an earlier answer.
 However, this morning I seem disposed to acknowledge it from hence.
@@ -485,7 +525,10 @@ Tell your dear children I love them, and think of them often.
 
 I salute thee and dear Leonard in Gospel affection, and remain your tribulated sister,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 As the Yearly Meeting drew near, bring still undecided whether to attend it,
 she again visited Burlington, making her home with her friend Martha Allinson.
@@ -513,10 +556,14 @@ beautifully inviting the youth into that strait and narrow but peaceful way,
 in which she had for so many years experienced
 the faithfulness of Him who had called her.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to L. Snowdon,
 
-Edgely Farm, 10th mo.
-12th, 1798.
+[.signed-section-context-open]
+Edgely Farm, 10th mo. 12th, 1798.
 
 I wrote a few lines yesterday by Joseph,
 and now proceed to fulfil a commission given me just as
@@ -533,15 +580,21 @@ that whether he may or not be permitted to see his dear mother,
 wife, and children in mutability, the will of his blessed Master may be done.`"
 I thought this seemed like his having some sense of what was to befall his family.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Martha Allinson.
 
-Edgely Farm, 10th mo.
-12th, 1798.
+[.signed-section-context-open]
+Edgely Farm, 10th mo. 12th, 1798.
 
-Dear Martha,--I had not time by return of J. S. to give thee a line,
+[.salutation]
+Dear Martha,
+
+I had not time by return of J. S. to give thee a line,
 but am now seated to inform thee that I feel
 quite satisfied in leaving Burlington when I did,
 as the weather was more favourable then than it has been since,
@@ -576,7 +629,7 @@ Accounts from our poor city are that though
 there is an evident abatement of the disorder,
 yet in the last few warm days more new cases have appeared:
 but that our friends were all mending.
-Tell dear Samuel Emlen that I have just received a letter from L--R--,
+Tell dear Samuel Emlen that I have just received a letter from +++L______+++ +++R______+++,
 who informs me that she has a letter from dear Martha Routh (5th mo.
 1st, in London) saying "`the multitude, which is very large,
 have been fed with food convenient.
@@ -604,9 +657,15 @@ That so, if faithful unto death,
 the crown of eternal life may become our portion for ever and ever.
 I am,' dear Martha, thy affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
 
+--
+
 Martha Allinson, in a letter to Rebecca Jones, Eleventh month, 3rd, 1798, says:
+
+[.embedded-content-document.letter]
+--
 
 "`Dear Samuel Emlen has been in to see us this morning,
 and on hearing thy message of love says,
@@ -614,7 +673,13 @@ and on hearing thy message of love says,
 Tell her that I love her as a co-worker in the fellowship of the gospel,
 which I hope will last for ever and ever.`"
 
+--
+
 From Edgely she writes to a friend, Eleventh month 3rd:
+
+[.embedded-content-document.letter]
+--
+
 "`I do not think I shall get to my lonely dwelling in the city till next week, when,
 if I am favoured once more to arrive thereat,
 I hope it will be under a suitable sense of the Lord's mercy and goodness, which,
@@ -640,6 +705,8 @@ have gone to Germany and the South of France.
 Thomas Scattergood is low in London: other friends there pretty well.
 By a letter this day received from Sarah Dillwyn, she and George are well,
 and in London.`"
+
+--
 
 It may interest our readers to know that during this absence
 from the city the keys of her house were left with two friends,
@@ -717,7 +784,7 @@ That meeting has regularly convened on the day then fixed, from that time to the
 The General Spring Meeting to which R. Jones alluded,
 was a meeting of Ministers and Elders, which the Friends in those stations,
 from all branches of the Yearly Meeting, had held, up to that time,
-annually in the Third month.--En. Friends' Review.]
+annually in the Third month.--Ed. Friends' Review.]
 
 First month 9th, 1799.
 Referring to the prospect of more messengers from Great Britain, she says:
@@ -731,4 +798,3 @@ for its prosperity in divine things.
 Oh, that I could say that we have learned righteousness by all we have undergone!
 Then might we hope that the Lord's anger would be appeased,
 and that his hand may not again in judgment visit us for our iniquities.`"
-

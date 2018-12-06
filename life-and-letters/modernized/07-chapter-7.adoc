@@ -5,7 +5,8 @@
 
 [.chapter-synopsis]
 * Attends closing sittings of Yearly Meeting and returns her certificates
-* Diary letter to J. P.
+* Diary
+* Letter to J. P.
 * Letter from Sarah Grubb
 * Present from pupils of Clonmell school
 * Parts with Hannah Cathrall and takes lodgings with James Goram
@@ -52,6 +53,8 @@ she returned the certificate granted to her by that meeting in the 3rd month, 17
 with endorsements from the Yearly Meeting held in London in the years 1787 and 1788,
 and from the Half Year`'s Meeting for Ireland, Fifth month 9th, 1786.
 
+[.small-break]
+'''
 Her diary thus proceeds:
 
 4th, Seventh day.--Rose refreshed,
@@ -243,24 +246,8 @@ the pupils had become much attached to her,
 so that the offering was one of affection on their part,
 and not merely as made to their teacher`'s friend.
 
-[.centered.emphasized]
-Clonmell-School
-to Rebecca Jones of Philadelphia;
-On her return from a long and arduous visit to the Churches of the
-People called Quakers in Europe; sends greeting.
-After a frequent and sympathetic conflict
-with this her endeared friend,
-and instructive companion;
-SARAH R. GRUBB, rejoices in HOPE,
-that by the POWER OF OMNIPOTENCE,
-and in the Covenant Of Love And Life,
-She is now restored to the bosom of the Church
-in AMERICA,
-and to the precious society of
-her most beloved and constant friend,
-in the Tribulation And Consolation of True Gospel,
-Hannah Cathhall.
-Eleventh Month, 1788.
+[.old-style]
+=== Clonmell-School to Rebecca Jones of Philadelphia: / On her return from a long and arduous visit to the Churches of the People called Quakers in Europe; sends greeting / After a frequent and sympathetic conflict with this her endeared friend, and instructive companion; / SARAH R. GRUBB, / rejoices in HOPE, / that by the POWER OF OMNIPOTENCE, / and in the Covenant Of Love And Life, / She is now restored to the bosom of the Church in America, / and to the precious society of her most beloved and constant friend, in the Tribulation And Consolation of True Gospel, / Hannah Cathhrall. / Eleventh Month, 1788.
 
 Shortly after this, in an open conference between Rebecca Jones and Hannah Cathrall,
 as regarded their future mode of living,

@@ -1,8 +1,14 @@
 == Chapter IX.
 
-Yellow Fever of '93--Death and character of Margaret Haines--Letter to her
-children--Rebecca Jones is ill with the fever--Thomas Scattergood`'s visits
-and notes--Assiduous attentions of Dr. Cathrall--Letters--Family visit.
+[.chapter-synopsis]
+* Yellow Fever of 1793
+* Death and character of Margaret Haines
+* Letter to her children
+* Rebecca Jones is ill with the fever
+* Thomas Scattergood`'s visits and notes
+* Assiduous attentions of Dr. Cathrall
+* Letters
+* Family visit.
 
 A Number of our readers will vividly remember the malignant fever which prevailed in,
 and almost depopulated Philadelphia, in the summer and autumn of 1793.
@@ -45,10 +51,19 @@ As an evidence of the close union of spirit which subsisted
 between Rebecca Jones and this honoured friend,
 we subjoin a letter written on the morning of her decease.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Caspar And Catherine Hainks.
 
+[.signed-section-context-open]
 Tenth month 3rd, 1793.
-To dear Caspar and Catherine,--I awoke this morning about half past five o`'clock,
+
+[.salutation]
+To dear Caspar and Catherine,
+
+I awoke this morning about half past five o`'clock,
 under such a solemnity and sweetness of spirit,
 that it seemed almost like the end of all conflict,
 and which I lay under till near seven;
@@ -64,7 +79,10 @@ My dear love salutes you and dear H. Hastings.
 I cannot add, my heart is too full for utterance,
 more than that I am your sincerely affectionate and sympathizing friend,
 
- Rebecca Jones
+[.signed-section-signature]
+Rebecca Jones
+
+--
 
 On the 11th of Tenth month, Rebecca Jones was seized with the yellow fever,
 and for two weeks there was little prospect of her recovery.
@@ -170,10 +188,15 @@ she adds, "`for many days I had no other prospect but that I should also,
 by the same disease, be removed; but the Lord had mercy on me and healed me;
 blessed forever be his adorable Name, Mercy, Goodness and Truth.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Christiana Hustler.
 
-Philadelphia, 2nd mo.
-24th, 1794.
+[.signed-section-context-open]
+Philadelphia, 2nd mo. 24th, 1794.
+
 My beloved companion Christiana Hustler, and her dear children, may,
 by this salutation of my true love, be informed that I am still on this uncertain stage,
 and a monument of divine compassion, goodness and power.
@@ -236,17 +259,27 @@ as that, by their conduct,
 they may evince this to be their resolution--Let others do as they may, as for us,
 we will serve the Lord.
 
+[.signed-section-closing]
 Pray for, and pity your poor, weak and affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
 
-[.asterism]
-'''
+--
 
-Philadelphia, 2nd mo.
-11th, 1794.
+[.embedded-content-document.letter]
+--
 
-Dear Friend John Gurney Bevan,--Your last acceptable letter remains unanswered,
+[.letter-heading]
+To John Gurney Bevan.
+
+[.signed-section-context-open]
+Philadelphia, 2nd mo. 11th, 1794.
+
+[.salutation]
+Dear Friend John Gurney Bevan,
+
+Your last acceptable letter remains unanswered,
 but you have doubtless heard what a humbling season has in
 infinite wisdom been dispensed to the inhabitants of this city,
 and that upwards of four thousand have been through the prevalence of
@@ -305,10 +338,15 @@ and sanctify all his dispensations to his poor creatures,
 I pray to be helped to live without carefulness,
 and no longer than I may be of some use in his Church, and amongst this people.
 
+--
+
 Her princely host and beloved friend, Joseph Gurney Bevan, writing to her from London,
 Fourth month 30th, 1794,
 thus tenderly and appropriately refers to the
 visitation of the previous summer and autumn:
+
+[.embedded-content-document.letter]
+--
 
 "`I am rather cautious of what I say respecting the
 sickness which prevailed last fall in your city,
@@ -324,6 +362,8 @@ but the blessing you mention of a resigned and quiet mind, which,
 although it cannot be commanded, is, nevertheless, sometimes afforded; and indeed,
 from the very circumstance of being received as a gift,
 becomes more precious and consoling than if it could be.`"
+
+--
 
 Rebecca Jones in writing, after receipt of J. O. B`'s letter,
 to Mary Bevan thus refers to the above passage,
@@ -389,14 +429,19 @@ who gave up to accompany me, held out in the patience, and,
 through the Lord`'s adorable goodness, I was enabled to get through,
 to the peace of my own mind, with the sentence of an Unprofitable Servant.`"
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Rebecca Jones To Joseph Williams.
 
+[.signed-section-context-open]
 Philadelphia 6th mo., 1794.
 
-Dear Friend, Joseph Williams,--Nothing but the love and esteem I bear you and yours,
+[.salutation]
+Dear Friend, Joseph Williams,
+
+Nothing but the love and esteem I bear you and yours,
 and the fear of being thought ungrateful,
 could induce one in my present weak state--in
 every sense--to set about writing at this time.
@@ -434,10 +479,13 @@ that would be truly noble; and tell me how Robert Grubb, Mary Dudley, S. Shackle
 and E. Pim come on--how Clonmell school flourishes, with other interesting accounts;
 and whether Sarah Grubb`'s works are reprinted, with any addition or alteration thereof.
 
+[.signed-section-closing]
 Believe me to be unchangeably your assured friend and little sister in the Truth,
 
+[.signed-section-signature]
 Rebecca Jones
 
+[.postscript]
 N+++.+++ B. I omitted, in due place, to mention another ambassador, David Sands,
 from the government of New York,
 who has obtained certificates to make a religious visit to Friends in Europe.
@@ -449,6 +497,8 @@ And may you, my dear friend, be encouraged to hold fast,
 and occupy with the precious gift, which you have received;
 that so the Lord`'s work may prosper in your hand,
 and your evening close with the sweet reward due to faithfulness.
+
+--
 
 The arrival of the Friends referred to in the above letter is thus noticed
 in the Epistle to London from the Women`'s Y. M. of Philadelphia,
@@ -465,4 +515,3 @@ Royal Psalmist is feelingly adopted by some of our minds,--"`How excellent
 is your loving kindness oh Lord!--therefore the children of men put their
 trust under the shadow of your wings.`"
 Unto whom we desire to render thanks, giving and praise, both now and forever.`"
-

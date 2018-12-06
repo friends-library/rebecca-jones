@@ -1,20 +1,38 @@
 == Chapter XVI.
 
+[.chapter-subtitle--blurb]
 1805--1813.
 
-Letter to Mary Jeffries--Marriage of James and Bernice Allinson--
-Letters to them--Eclipse and note by E. Lewis respecting it--Death of
-Hannah Cathrall--Painful circumstances--Letters--Goes to New York--
-Returns--Death of John Teas--Yearly Meeting--Death of K. Howell,
-James Simpson,
-Christiana Hustler and James Allinson--Letter to S.
-Hustler--Death of R. Wright--Mentions Susanna Home.
+[.chapter-synopsis]
+* Letter to Mary Jeffries
+* Marriage of James and Bernice Allinson
+* Letters to them
+* Eclipse and note by E. Lewis respecting it
+* Death of Hannah Cathrall
+* Painful circumstances
+* Letters
+* Goes to New York
+* Returns
+* Death of John Teas
+* Yearly Meeting
+* Death of K. Howell, James Simpson, Christiana Hustler and James Allinson
+* Letter to S. Hustler
+* Death of R. Wright
+* Mentions Susanna Home
 
-Rebecca Jones to Mary Jeffries.
+[.embedded-content-document.letter]
+--
 
-Philadelphia, 3rd mo.
-1st, 1805.
-Dear Mary Jeffries,  Increasing infirmities, with old age coming fast upon me,
+[.letter-heading]
+Rebecca Jones To Mary Jeffries.
+
+[.signed-section-context-open]
+Philadelphia, 3rd mo. 1st, 1805.
+
+[.salutation]
+Dear Mary Jeffries,
+
+Increasing infirmities, with old age coming fast upon me,
 have prevented my seasonable returns to many other epistles from your land besides thine,
 so that I am thereby deprived of those frequent little "`brooks by the way,`" which
 for many years have been very refreshing and strengthening to my poor mind;
@@ -63,6 +81,8 @@ And oh, saith my soul,
 that I may also be counted worthy of an admittance
 thereinto when my short span of time shall terminate.
 
+--
+
 "`New Year's day, 1806.
 At home, and favoured with a peaceful mind.
 Lord, grant that I may be so sensible of the multiplied
@@ -94,7 +114,7 @@ May the Lord be pleased to make her more easy, both here and for ever!
 
 "`17th. H. Drinker brought me $22, for eleven poor widows.`"
 
-In her diary, under date of the 22d, she notes a visit from J. A.,
+In her diary, under date of the 22d, she notes a visit from James Allinson,
 who opened to her his views respecting a matrimonial connexion with her
 Bernice Chattin For this the mind of Rebecca Jones was already prepared,
 under a conviction that these young Friends were by their
@@ -107,7 +127,7 @@ The further memoranda of Rebecca Jones on this subject,
 touchingly illustrate the closeness of the union which
 subsisted between this mother and her child,
 our aged friend disinterestedly and nobly taking part against herself,
-and overcoming B.'s dutiful reluctance to leave
+and overcoming Bernice's dutiful reluctance to leave
 her venerable parent in her declining years.
 
 It is however due from the compiler to say that the insertion of this
@@ -133,7 +153,7 @@ Amen, saith my soul.
 Many friends have called to see me,
 with whom I have sweet fellowship--particularly dear Martha Allinson and her children.
 
-"`29th. At our Monthly Meeting J. and B. declared their
+"`29th. At our Monthly Meeting James and Bernice declared their
 intentions in a very solemn and becoming manner.
 Thomas Scattergood came into our meeting with James,
 and language of encouragement was handed through John Parrish and others.
@@ -214,7 +234,10 @@ I mourn in looking at him, so emaciated, so reduced, and so old in appearance,
 that thou wouldst hardly know him; yet full of love and sweetness.
 I cannot help hoping that he may yet be restored to labour and service among us.`"
 
-Eleventh month 5th, she writes to Bernice Allinson--
+Eleventh month 5th, she writes to Bernice Allinson:
+
+[.embedded-content-document.letter]
+--
 
 "`Our Quarterly Meeting was uncommonly large;
 the service in both meetings was close and sharp, both from male and female,
@@ -236,16 +259,20 @@ Oh, I do look at you with love and sweetness, and often remember the saying,
 "`two are better than one,`" etc.
 May the God of all grace and consolation be with us, now we are separated;
 even as he hath many times when thou and I have sat by the light of the same
-lampand hath tendered our hearts by the shedding abroad of his love,
+lamp and hath tendered our hearts by the shedding abroad of his love,
 by which we have been united in desire to fear, love and serve him for ever and ever.
 
 P+++.+++ S.--I open my letter (Sixth day, the 5th,) to mention that dear Hannah Cathrall,
 after laying 72 hours in an easy sleep, quite motionless,
 quietly breathed her last about 9 o'clock this morning.
 
+[.signed-section-closing]
 I am thy unchangeably affectionate mother,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 In her diary after recording the illness and death of her "`old friend and former
 companion Hannah Cathrall,`" with the particulars given in the above letter,
@@ -292,10 +319,19 @@ girdle--which encouraged a belief that thou wouldst be cared for.
 This I fully believe, and it has proved strengthening to me many times,
 in a hope that I may also be thus favoured.`"
 
-Philadelphia, 1st. Mo. 23d. 1807.
+[.embedded-content-document.letter]
+--
 
-My dear friend,
-Mary Allinson;--I have such confidence in thy friendship that though more
+[.letter-heading]
+Rebecca Jones to Mary Allinson
+
+[.signed-section-context-open]
+Philadelphia, 1st. Mo. 23rd. 1807.
+
+[.salutation]
+My dear friend, Mary Allinson;
+
+I have such confidence in thy friendship that though more
 than a month has elapsed since the receipt of thy short kind address,
 I trust when thou takes in the several events that have occurred,
 and one more afflicting and awful than I believe ever happened in our society before;^
@@ -335,7 +371,7 @@ accomplished`" etc.--and that her evening closed in
 Our dear friend S. Cresson is in a low spot, but will, I fully believe,
 in the Lord's time,
 experience the Sun of Righteousness to arise with healing in his wings.`"
-The like comfortable hope I have for dear who is so low that she refuses to be comforted.
+The like comfortable hope I have for dear +++_______+++ who is so low that she refuses to be comforted.
 Tell thy worthy Mother that Ih just now looking towards her,
 I can adopt the benediction of one formerly,
 "`Blessed art thou among women`"--because I feel
@@ -343,7 +379,8 @@ that she is under the Great Shepherd's care,
 who slumbereth not by day nor sleepeth by night,
 and will eventually cause the dispensations of his Providence to work
 together for her good and the good of her beloved children.
- 
+
+--
 
 In her diary, 2 mo.
 4th 1807,--still dwelling on the anguish noted the 22d of 12th month,
@@ -405,7 +442,7 @@ our blessed Creator, in his inscrutable wisdom, doeth all things rightly and wel
 
 "`5 Mo: 14th, Having the offer of going to N. York, in company with Richard Jordan, etc.,
 and having been for some time inclined to visit my dear
-children J. and Bernice Allinson who are settled in that city,
+children James and Bernice Allinson who are settled in that city,
 I consented.
 We spent a night at Robert White's and another at Richard Hartshorne's,
 and were joyfully received in N. York on the 17th. The
@@ -416,6 +453,9 @@ whose spirits had a sweetening effect on my poor mind.`"
 
 To Christiana Hustler, she writes from New York, 6 mo.
 4th,
+
+[.embedded-content-document.letter]
+--
 
 "`I have been in this city about three weeks,
 on a visit to my daughter who was married to a choice young friend a year ago.
@@ -448,9 +488,14 @@ Richard Jordan, who had been at our Yearly Meeting and now belongs to this,
 was my fellow passenger in the carriage in which I came hither.
 He is brother beloved.`"
 
+--
+
 Enumerating some symptoms of failing health, she adds--
 
-"`so that I conclude that the journey, the painful journey, cannot be far from its end.
+[.embedded-content-document.letter]
+--
+
+"`...so that I conclude that the journey, the painful journey, cannot be far from its end.
 O saith my poor soul, that with it, all my pains and sorrows may also end.
 Pray for me, dear Chrissy,
 that my faith and patience may not fail--for verily both are closely tried.
@@ -462,7 +507,10 @@ May Grace, Mercy and Peace from God the Father, be with us, and abound,
 through Jesus Christ our Lord forever and ever,
 is the prayer of thy poor and almost worn out fellow traveller,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 "`N. York 5th mo.
 31st--1807. The Yearly Meeting here concluded 6th day at noon.
@@ -471,11 +519,11 @@ though some instances of weakness were felt.
 Richard Jordan, David Sands, etc., had large communications in the public meetings.
 I hope I had a little share.`"
 
-"`I staid,`" she notes, "`with J. and Bernice Allinson till the 15th of 6th mo:
+"`I staid,`" she notes, "`with James and Bernice Allinson till the 15th of 6th mo:
 when I went with Thomas Eddy in his carriage to his house at Elizabeth Town,
 where my kind friends R. and C. Hartshorne came for me.
 After pausing two days with them, and making some visits at Rahway,
-R+++.+++ H. took me to R Whites.
+R+++.+++ H. took me to R. Whites.
 Reached Burlington 6th day noon, and staid there over 1st day.
 On arriving at my habitation in Brook's Court, and finding it and all therein safe,
 I had abundant cause (as often before) to be thankful
@@ -496,12 +544,19 @@ from the same fatherly Hand who has often visited our poor city,
 both in mercy and in judgment.
 Oh that the inhabitants may now learn Righteousness.`"
 
-To M. Allinson.
+[.embedded-content-document.letter]
+--
 
-Philadelphia, 2nd mo.
-1808.
+[.letter-heading]
+To Mary Allinson.
 
-Dear Mary,--Thy sisterly communication of 14th inst.
+[.signed-section-context-open]
+Philadelphia, 2nd mo. 1808.
+
+[.salutation]
+Dear Mary,
+
+Thy sisterly communication of 14th inst.
 is very acceptable,
 though to hear of thy dear Mother's continued
 indisposition calls forth my renewed sympathy,
@@ -517,7 +572,7 @@ and a desire is mostly cherished,
 that I may receive the present dispensation from our merciful Father,
 with due submission, and become more worthy of His blessed care and protection,
 who hath done for and to me great things, and who knows best how to deal with me,
-a poor creature, for my good, both Iere and forever.
+a poor creature, for my good, both here and forever.
 I am sorry to hear that my dear fellow pilgrims George and
 Sarah Dillwyn are suffering under bodily infirmities.
 I feel them often near to my best life,
@@ -535,7 +590,10 @@ I have nothing better at command just now--not even a promise to mend in future,
 so let thy dear mother and sisters share in this and in the salutation of dear love,
 from a poor old fellow soldier,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 Having been engaged in deep travail and exercise in Burlington Meeting,
 as she entered the door of her friend Martha Allinson an engaging child,
@@ -544,17 +602,15 @@ Rebecca Jones took her in her arms, and pressing her to her bosom,
 repeated the following lines with a charm of voice and manner which impressed the
 minds of those present far more than the narration can interest our readers.
 
-'Tis this--'tis Innocence thy bosom cheers--
-
-This calms thy troubles, this dispels thy fears--
-
+[verse]
+____
+'Tis this--'`tis Innocence your bosom cheers--
+This calms your troubles, this dispels your fears--
 This spreads o'er all its beautifying rays,
-
 Makes every object, every plaything please.
-
 This, while less things a guilty breast can awe,
-
-Gives music to a key and beauty to a straw.-'
+Gives music to a key and beauty to a straw.
+____
 
 In the first month of the year 1809,
 died her valued friend John Teas--an upright man--a
@@ -614,8 +670,8 @@ and ask for the consolation of continued remembrance in your seasons of favour.`
 "`of the peaceful and happy close of my truly dear friend,
 and companion in gospel labours in England, Christiana Hustler; who,
 after a long illness, in the 80th year of her age,
-died at her country seat at Underclifle, Yorkshire, the 27th of 6th mo.
-1811. And on the 14th of 8th mo.
+died at her country seat at Underclifle, Yorkshire, the 27th of 6th mo. 1811.
+And on the 14th of 8th mo.
 dear James Allinson died at his mother's house in Burlington, aged 33 years,
 leaving a precious wife and three children to lament
 their irreparable loss--whom may the Lord sustain!`"
@@ -629,9 +685,18 @@ that of the Church Triumphant--expressing her belief that it was
 designed that there should be a traveling towards a nearer
 approximation to the latter whilst in this militant state.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+
+Rebecca Jones to Sarah Hustler.
+
+[.signed-section-context-open]
 Philadelphia, the 1st day of the year, 1813.
 
-My endeared friend and sister Sarah Hustler:--
+[.salutation]
+My endeared friend and sister Sarah Hustler:
 
 I have been so long thy debtor that I hardly know how to begin the excuse which is
 necessary for omitting to answer thy letter of the 23d of 8th month last,
@@ -763,5 +828,7 @@ and especially dear Nicholas Waln and Phebe Speakman,
 who are evidently breaking down--but none more so than thy sincerely attached and
 aged sister in the fellowship of the Gospel of peace and salvation.
 
+[.signed-section-signature]
 Rebecca Jones
 
+--
