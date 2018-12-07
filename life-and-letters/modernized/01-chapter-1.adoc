@@ -1,13 +1,22 @@
 == Chapter I.
 
+[.chapter-subtitle--blurb]
 1739--1762.
 
-Introductory remarks--Her own account of her convincement and early life--Letter
-from Catherine Peyton--She attends Yearly Meeting through ignorance of its select
-character--Is invited to meetings for discipline--Appears as a minister--Is
-acknowledged as such--Her mother`'s death--Is joined in the school by Hannah
-Cathrall--Makes several visits from home--Death of Daniel Stanton--Further
-particulars of her early history--Interview with the English Friends.
+[.chapter-synopsis]
+* Introductory remarks
+* Her own account of her convincement and early life
+* Letter from Catherine Payton
+* She attends Yearly Meeting through ignorance of its select character
+* Is invited to meetings for discipline
+* Appears as a minister
+* Is acknowledged as such
+* Her mother`'s death
+* Is joined in the school by Hannah Cathrall
+* Makes several visits from home
+* Death of Daniel Stanton
+* Further particulars of her early history
+* Interview with the English Friends.
 
 === Introductory Remarks.
 
@@ -178,7 +187,7 @@ for I liked not their way of preaching, but was always best pleased with silent 
 
 In the year 1754, and in the 16th year of my age,
 there came from old England on a religious visit to the churches of Christ in America,
-Catharine Peyton, in company with Mary Piesly, from Ireland.
+Catherine Payton, in company with Mary Peisley, from Ireland.
 I was at several meetings in this city with the aforesaid Friend,
 and heard several testimonies which she bore, with which I was much pleased;
 but like many others, I only heard,
@@ -237,11 +246,16 @@ reverently to confide in the Lord`'s infinite mercy,
 I here transcribe at large.
 Peradventure it may revive the hope of some afflicted soul.
 
-"`Philadelphia.
-4th mo.
-1st, 1755.
+[.embedded-content-document.letter]
+--
 
-Dear Child,--I have carefully read your letter, and,
+[.signed-section-context-open]
+"`Philadelphia. 4th mo. 1st, 1755.
+
+[.salutation]
+Dear Child,
+
+"`I have carefully read your letter, and,
 from a tenderness of spirit which I feel towards you,
 conceive much hope that you will do well,
 if you keep to that Power which has visited you.
@@ -286,10 +300,14 @@ who, I believe, will use his utmost endeavours to convey it to you.
 "`Farewell; and may the Lord continue to bless you.
 I conclude, in much haste, your sympathizing friend,
 
-Catharine Peyton.
+[.signed-section-signature]
+Catherine Payton.
 
+[.postscript]
 "`P. S. I had rather you keep this to yourself; and be sure,
 be careful how you tell your condition to such who have no knowledge of it.`"
+
+--
 
 On the receipt and reading of this letter my heart was
 melted into great tenderness before the Lord,
@@ -345,7 +363,7 @@ and my resolutions were confirmed to serve the Lord the
 little time that remained to me in this life,
 which I then often thought would not be long.
 
-In the Spring of the year 1756, my aforesaid friend, Catharine Peyton,
+In the Spring of the year 1756, my aforesaid friend, Catherine Payton,
 embarked with her before-named companion, Mary Peisley, Samuel Fothergill,
 (who had also performed a religious visit to Friends on this continent,) Samuel Emlen,
 of this city, etc., and set sail for Europe.
@@ -594,7 +612,8 @@ a workman that needed not to be ashamed,
 rightly dividing the word to every class in the family.
 "`Precious in the sight of the Lord is the death of his saints.`"
 
-+++[+++Here ends the autobiographical sketch which she probably designed resuming.]
+[.alt.centered]
+==== [Here ends the autobiographical sketch which she probably designed resuming.]
 
 The mother of Rebecca Jones, as has been mentioned in the preceding memoir,
 kept a school for small children.
@@ -753,4 +772,3 @@ after the decease of her mother,
 she entered into the business of teaching more extensively,
 in connection with Hannah Cathrall,
 the latter attending to the sewing department in a separate room.
-

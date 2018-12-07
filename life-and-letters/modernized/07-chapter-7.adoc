@@ -1,12 +1,20 @@
 == Chapter VII.
 
+[.chapter-subtitle--blurb]
 1788 to 1790.
 
-Attends closing sittings of Yearly Meeting and returns her certificates--Diary
-letter to J. P.--Letter from Sarah Grubb--Present from pupils of Clonmell school--
-Parts with Hannah Cathrall and takes lodgings with James Goram--Letter to J.
-Williams--Visits the Yearly Meetings on Long Island and on Rhode Island--Letter to
-Dr. Cathrall and to other Friends--Sickness--Journey to Maryland.
+[.chapter-synopsis]
+* Attends closing sittings of Yearly Meeting and returns her certificates
+* Diary
+* Letter to J. P.
+* Letter from Sarah Grubb
+* Present from pupils of Clonmell school
+* Parts with Hannah Cathrall and takes lodgings with James Goram
+* Letter to J. Williams
+* Visits the Yearly Meetings on Long Island and on Rhode Island
+* Letter to Dr. Cathrall and to other Friends
+* Sickness
+* Journey to Maryland.
 
 "`On the first sight of my native city,`" she says, "`my heart was so affected,
 that I seemed near fainting; but, after relieving myself with many tears,
@@ -45,6 +53,8 @@ she returned the certificate granted to her by that meeting in the 3rd month, 17
 with endorsements from the Yearly Meeting held in London in the years 1787 and 1788,
 and from the Half Year`'s Meeting for Ireland, Fifth month 9th, 1786.
 
+[.small-break]
+'''
 Her diary thus proceeds:
 
 4th, Seventh day.--Rose refreshed,
@@ -74,7 +84,7 @@ went to my lodgings.
 
 6th, Second day.--Was at the second day Morning Meeting; dined at James Pemberton`'s,
 and there, and in the evening, finished several letters begun on board the Pigou,
-and sent them by the ---- going to Cork.
+and sent them by the +++_______+++ going to Cork.
 
 Various letters commenced on ship-board, were finished on her arrival.
 In a postscript to one addressed to John Pemberton, she says, (10th mo.,
@@ -183,6 +193,10 @@ like these precious sisters,
 "`stand together in the unity,`"--having in themselves the
 evidence that they have "`passed from death unto life.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Sarah Grubb To Rebecca Jones
 
 "`I do indeed join you in the grateful tribute of
@@ -211,12 +225,14 @@ There is a prospect now, that the salutation of my heart will be wafted to you,
 and meet your acceptance, in the renewings of that love which,
 I humbly trust no vicissitudes or future dispensations will ever be allowed to diminish.
 
-I value it as a gift from the hand which is full of blessings,
+"I value it as a gift from the hand which is full of blessings,
 and wish to honour it as such.
 The affectionate part in us fabricates a strong resemblance of gospel fellowship, but,
 had we no stronger cement than it affords, we could not stand together in the unity,
 through many of those storms and combats with which the Christian traveller meets,
 from within and from without.
+
+--
 
 Our readers are supposed to be aware that the writer of the foregoing letter,
 had removed to Ireland, and taken charge of Clonmell school.
@@ -230,39 +246,8 @@ the pupils had become much attached to her,
 so that the offering was one of affection on their part,
 and not merely as made to their teacher`'s friend.
 
-Clonmell-School
-
-to Rebecca Jones of Philadelphia;
-
-On her return from a long and arduous visit to the Churches of the
-
-People called Quakers in Europe; sends greeting.
-
-After a frequent and sympathetic conflict
-
-with this her endeared friend,
-
-and instructive companion;
-
-SARAH R. GRUBB, rejoices in HOPE,
-
-that by the POWER OF OMNIPOTENCE,
-
-and in the Covenant Of Love And Life,
-
-She is now restored to the bosom of the Church
-
-in AMERICA,
-
-and to the precious society of
-
-her most beloved and constant friend,
-
-in the Tribulation And Consolation Of True Gospel,
-
-Hannah Cathhall.
-
-Eleventh Month, 1788.
+[.old-style]
+=== Clonmell-School to Rebecca Jones of Philadelphia: / On her return from a long and arduous visit to the Churches of the People called Quakers in Europe; sends greeting / After a frequent and sympathetic conflict with this her endeared friend, and instructive companion; / SARAH R. GRUBB, / rejoices in HOPE, / that by the POWER OF OMNIPOTENCE, / and in the Covenant Of Love And Life, / She is now restored to the bosom of the Church in America, / and to the precious society of her most beloved and constant friend, in the Tribulation And Consolation of True Gospel, / Hannah Cathhrall. / Eleventh Month, 1788.
 
 Shortly after this, in an open conference between Rebecca Jones and Hannah Cathrall,
 as regarded their future mode of living,
@@ -289,6 +274,9 @@ in which the Harmony which "`could not have been
 far distant,`" was shattered and almost wrecked,
 she says,
 
+[.embedded-content-document.letter]
+--
+
 "`For this extraordinary circumstance together with the innumerable, unmerited mercies,
 in which I have been made a sharer, both in your country and my own,
 my soul worships in the deepest prostration before the throne of boundless goodness;
@@ -296,7 +284,12 @@ adopts the humble inquiry, '`What shall I render unto you, oh Lord,
 for all your benefits?
 and desires to walk in gratitude and humility all the days of my life.`'`"
 
+--
+
 After giving information on various points, she thus concludes:--
+
+[.embedded-content-document.letter]
+--
 
 "`Your kind epistle which reached me before I embarked,
 I esteem as a fresh proof of your brotherly remembrance,
@@ -320,9 +313,13 @@ enjoyment of which there is nothing worth desiring to live for.
 Farewell dear Samuel--"`hold fast that which you
 have received--let no man take your crown.`"
 
+[.signed-section-closing]
 I remain in christian sympathy your assured friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 In accordance with the noble determination of Saul of Tarsus
 that he would "`make his ministry without charge,`" and "`with
@@ -345,12 +342,19 @@ It was a good meeting.
 At its close I had a short opportunity with Warner Mifflin,
 and desired him to let patience have its perfect work.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Joseph Williams.
 
-Philadelphia, 12th mo.
-16th, 1788.
+[.signed-section-context-open]
+Philadelphia, 12th mo. 16th, 1788.
 
-Dear friend Joseph Williams,--Before this reaches you, you will have heard,
+[.salutation]
+Dear friend Joseph Williams,
+
+Before this reaches you, you will have heard,
 that through the tender mercies of the Most High, I am safely arrived in this,
 my native city, which I was favoured to reach two days before our Yearly Meeting ended;
 thereby having an opportunity of seeing my beloved
@@ -416,9 +420,13 @@ meet at last where we can unite in the ceaseless song,
 "`Great and marvellous are your works, Lord God Almighty; just and true are your ways,
 you King of Saints!`"  
 
+[.signed-section-closing]
 Your assured, obliged, and affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 "`1789. Fifth month 4th.--Was at our Quarterly Meeting,
 where I mentioned an exercise for going to the
@@ -511,11 +519,16 @@ in the spirit of this world,
 were taking their rest and laying up their treasure in sublunary things.
 D+++.+++ Offley followed in supplication.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Joseph Williams.
 
-Philadelphia, 10th mo.
-21st, 1783.
+[.signed-section-context-open]
+Philadelphia, 10th mo. 21st, 1783.
 
+[.salutation]
 Beloved Joseph,
 
 Yesterday about noon arrived our dear Mary Ridgway and Jane Watson,
@@ -568,6 +581,8 @@ except W. Matthews, who seems in declining health.
 Samuel Emlen moving about as usual,
 and sometimes grumbling at himself for coming home so soon.
 
+--
+
 In the 12th month of this year she was severely ill.
 During her confinement the precious reward of true peace was mercifully continued to her,
 and her mind was stayed upon her never failing Friend,
@@ -575,8 +590,13 @@ with desires for increased purification and fitness for the exchange
 of the "`earthly house`" for the building "`not made with hands,
 eternal in the heavens.`"
 
-To Christiana Hustler she writes, 3rd mo.
-10th, 1790.
+To Christiana Hustler she writes:
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+3rd mo. 10th, 1790.
 
 "`We have had the company of the female Hibernians`" (Mary Ridgway
 and Jane Watson) in this city since their arrival (except a small
@@ -614,9 +634,15 @@ said they had also been in like manner in company with those two friends.
 John Pemberton is now with Samuel Emlen and others waiting on
 Congress on behalf of the oppressed Africans.`"
 
+--
+
 In a letter to Mary, wife of Joseph Gurney Bevan, dated 4th month 15th,
 after referring to her frequent indisposition during the late winter,
 which frequently confined her for weeks at a time, she says,
+
+[.embedded-content-document.letter]
+--
+
 "`I am often with you in spirit,
 and strong in desire that you may encourage each other to do all the good you can,
 while your faculties are continued bright and lively.
@@ -627,6 +653,8 @@ To the Lord alone be the praise!
 His time, dear M., is the only right time.
 I frequently see your cousin Samuel Powell Griffitts.
 He is in good repute here, both as a physician and as a member of our society.`"
+
+--
 
 A visit which she paid to Maryland, of which no particulars are preserved,
 is believed to have been performed in the Spring or early in the summer of this year.
@@ -645,8 +673,13 @@ should be careful not to be deterred by indolence, by the cares of life,
 or by any subtle presentation of the Tempter,
 from a diligent and frequent perusal thereof.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Esther Tuke.
 
+[.signed-section-context-open]
 Philadelphia., 10th month 30th, 1790.
 
 My soul bows in deep abasement,
@@ -714,3 +747,4 @@ Dear George and Sarah Dillwyn, and Robert and Sarah Grubb, wrote to me from Amst
 to my comfort.
 Surely their sheaves will be very large, for they do not "`sow sparingly.`"
 
+--

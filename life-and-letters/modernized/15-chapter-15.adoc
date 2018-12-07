@@ -1,12 +1,23 @@
 == Chapter XV.
 
+[.chapter-subtitle--blurb]
 1804.
 
-Death of William Savery--Jacob Beck`'s lines on the occasion--Letters and notes--
-New Year`'s reflections 1805--Ann Alexander--Yearly Meeting--Martha Routh sails for
-England--Letter to M. R.--Dorothy Ripley--Death of B. Cathrall and wife,
-and Rachel Collins--Yellow Fever--Goes to Darby--
-Interesting letter to Mary Bevan--Returns to the Court.
+[.chapter-synopsis]
+* Death of William Savery
+* Jacob Beck`'s lines on the occasion
+* Letters and notes
+* New Year`'s reflections 1805
+* Ann Alexander
+* Yearly Meeting
+* Martha Routh sails for England
+* Letter to M. R.
+* Dorothy Ripley
+* Death of B. Cathrall and wife, and Rachel Collins
+* Yellow Fever
+* Goes to Darby
+* Interesting letter to Mary Bevan
+* Returns to the Court
 
 "`Sixth month 19th, 1804.--Third-day.
 This morning, before I was up, Ruth Ely sent to let me know that our endeared brother,
@@ -15,7 +26,7 @@ though unexpectedly at the time, having rode out the day before,
 and seemed rather better.
 But in the night the dropsical symptoms increased, and the water rising,
 it is believed proved suffocating.
-His last words were "`glory To God!`"
+His last words were "`glory to God!`"
 His remains were kept till 3 o`'clock on Fourth-day, when,
 instead of taking him to the burial ground, he was, at Martha Routh`'s request,
 taken to our North Meeting House,
@@ -24,13 +35,13 @@ and fellow citizen, greatly beloved for the work`'s sake.
 Elizabeth Foulke appeared in prayer,
 and in a very heavy rain his body was taken to our ground, and decently interred there.
 
- "`While the glad soul borne on some cherub`'s wing,
-
- Attends the throne of her celestial King,
-
- To claim the promised Palm in JESUS`' name,
-
- And join in worship with a seraph`'s flame.`"
+[verse]
+____
+"`While the glad soul borne on some cherub`'s wing,
+Attends the throne of her celestial King,
+To claim the promised Palm in JESUS`' name,
+And join in worship with a seraph`'s flame.`"
+____
 
 "`Thus it is, my contemporaries, friends,
 and acquaintances,`" are called hence one after another, and I,
@@ -71,21 +82,17 @@ minister of Christ,`" as his venerable biographer has appropriately styled him,
 lived in the hearts of others than his own people.
 And truly his solicitude to do good to the bodies and souls of men,
 was limited by no sectarian boundary.^
-footnote:[ Although this "`hymn`" (as he styled
+footnote:[Although this "`hymn`" (as he styled
 it) was certainly not intended to create a smile,
 a sample of it may as a curiosity amuse the reader.
 {footnote-paragraph-split}
-"`Oh
-the nineteenth of June Eighteen hundred and four,
+"`Oh the nineteenth of June Eighteen hundred and four,
 {footnote-paragraph-split}
-Was a
-sorrowful day to full many a score
+Was a sorrowful day to full many a score
 {footnote-paragraph-split}
-Of the children of
-Adam--for on that sad day
+Of the children of Adam--for on that sad day
 {footnote-paragraph-split}
-The spirit of Savery did thus
-soar away
+The spirit of Savery did thus soar away
 {footnote-paragraph-split}
 To the regions of bliss and of endless delight,
 {footnote-paragraph-split}
@@ -119,12 +126,19 @@ Joseph Cloud, who has lately returned from Great Britain,
 took a solemn farewell at our meeting yesterday morning,
 intending to go to his native home, in North Carolina.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Martha Allinson.
 
-Philadelphia, 10th mo.
-21th, 1804.
+[.signed-section-context-open]
+Philadelphia, 10th mo. 21th, 1804.
 
-My Dear Friend,--Your sisterly disposition to oblige a feeling fellow pilgrim,
+[.salutation]
+My Dear Friend,
+
+Your sisterly disposition to oblige a feeling fellow pilgrim,
 claims my sincere and grateful acknowledgment.
 I am deficient in my returns to your last two very acceptable epistles,
 and hope you will continue to feel love enough in your heart,
@@ -139,11 +153,13 @@ on account of their being manufactured by the Friends,
 while prisoners at York Castle, Great Britain, for their testimony against tithes.
 
 I expect you have heard of dear A. Alexander`'s movements,
-and that W C has family visiting before him, to begin at Pine street.
+and that W. C. has family visiting before him, to begin at Pine street.
 I have not forgotten any of my old fellow travellers--no not
 even those who reside in and near the quiet city of Burlington.
 George and Sarah Dillwyn, I. and A. Cox, S. and Samuel Emlen, the Hoskinses, the Smiths,
 the Morrises etc., etc.
+
+--
 
 "`Eleventh month 1st.--I have endeavoured to look at my friend Martha Routh`'
 s proposal for me to join her proposed family visit to our disowned members,
@@ -272,12 +288,19 @@ May divine Mercy be with her,
 and protect and carry her in safety and peace to her desired port,
 is my fervent prayer.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Martha Routh.
 
-Philadelphia, 5th mo.
-29th, 1805.
+[.signed-section-context-open]
+Philadelphia, 5th mo. 29th, 1805.
 
-My dearly beloved friend and sister,--Feeling my heart this morning
+[.salutation]
+My dearly beloved friend and sister,
+
+Feeling my heart this morning
 renewedly bound to you in the precious fellowship of the gospel,
 in the afflictions whereof I have also often been your companion,
 I have called for pen and ink, to salute you on board the Rose.
@@ -330,9 +353,13 @@ and mine, if it get not first to hand, may be left awhile, as from a poor old Sc
 yet no Pharisee,
 but your sincere and unabated friend and sister in the sufferings of the present day.
 
+[.signed-section-closing]
 Oh do let me hear soon from you,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 "`Sixth month 27th, 1805.--Saw a paragraph taken from a York paper,
 certifying that Dorothy Ripley is not a member of the Society of Friends.
@@ -342,8 +369,7 @@ John Hoskins, and several other Friends.
 Answered several English letters.`"
 
 "`Seventh month 8th. Ann Alexander, S. Proctor, and John Warder, Jr.,
-sailed the 27th of last month, in the ship Win.
-Penn.
+sailed the 27th of last month, in the ship Wm. Penn.
 Stephen Grellet came yesterday to see me.
 He is on a visit to Friends in the compass of this Yearly Meeting.
 Heard that Dorothy Ripley is holding meetings about New York, and passes for a Friend,
@@ -415,7 +441,10 @@ and settled in a quieting,
 clear persuasion (which still survives,) that all is
 well and forever well with dear Rachel Collins.`"
 
-To Mary, wife of Joseph Gurney Bevan, she writes Ninth month 23rd, as follows:
+To Mary, wife of Joseph Gurney Bevan, she writes Ninth month 23rd, as follows
+
+[.embedded-content-document.letter]
+--
 
 "`The reading of your very acceptable and interesting
 letter of 26th and 27th of Seventh mo.,
@@ -495,8 +524,13 @@ you would have her get rid of it out of hand,
 that this naughty inmate may no longer hinder me from answering her spouse`'s letter.
 So far from George Dillwyn`"
 
+--
+
 In the same letter, under date of Tenth month 15th,
 she acknowledges the receipt of some books,
+
+[.embedded-content-document.letter]
+--
 
 "`also the piece of which your Joseph Gurney Bevan is the author.
 It is so like his manner that I believe I should have guessed the author,
@@ -562,9 +596,13 @@ through all the ascendings and descendings of such poor pilgrims as myself,
 and is also worth its postage from your once favoured isle to this land,
 which has undergone changes and suffering beyond what our forefathers ever looked for.
 
+[.signed-section-closing]
 "`I am, dear Mary, your sincere and affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 Tenth month 23rd.--"`This day we returned to my habitation, in Brook`'s court, where,
 finding that all had, with ourselves, been under Divine protection,
@@ -573,4 +611,3 @@ and craved to be kept by him unto the end of my pilgrimage.
 Eleventh month 2nd and 4th. Our Quarterly Meeting was large and solemn,
 David Bacon and S. Smith absent from sickness,
 but Friends being generally returned from the country, were rejoiced to see each other.`"
-

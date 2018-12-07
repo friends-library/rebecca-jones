@@ -1,12 +1,19 @@
 == Chapter XII.
 
+[.chapter-subtitle--blurb]
 1799.
 
-Religious visit to New England,
-accompanied by Jane Snowdon--Character of Sarah Cresson and R.
-A+++.+++ Rutter.--Prophetic warning--Letters.--Family visits etc.--
-Returns--Goes to Edgely.--Interview with a Welsh convert.--
-Arrival of S. Harrison and J. Hall--Incident in North Meeting.
+[.chapter-synopsis]
+* Religious visit to New England, accompanied by Jane Snowdon
+* Character of Sarah Cresson and R. A. Rutter
+* Prophetic warning
+* Letters
+* Family visits etc.
+* Returns
+* Goes to Edgely
+* Interview with a Welsh convert
+* Arrival of S. Harrison and J. Hall
+* Incident in North Meeting
 
 On the 31st of Fifth month, 1799, Rebecca Jones and Jane Snowdon,
 having been liberated for religious service in New England, left Philadelphia;
@@ -91,7 +98,7 @@ She was a valuable minister, and in almost all respects, a very superior woman.
 Soon after her return from Philadelphia, she was seized with the prevailing epidemic,
 and in a few days removed from works to rewards.
 About two years after this event,
-Jacob Lindley and Ruth Anna Kutter were united in marriage, and she, in consequence,
+Jacob Lindley and Ruth Anna Rutter were united in marriage, and she, in consequence,
 removed within the limits of the Western Quarterly Meeting,
 where she continued to reside during the remainder of her days,
 respected and beloved by those who knew her, and were capable of appreciating her worth.
@@ -144,13 +151,13 @@ In her diary she notes, "`First-day, Sixth mo.
 when we had a parting meeting with men and women Friends, wherein I had,
 in the fear of the Most High, to proclaim a time, when
 
+[quote.scripture, , Amos 1:2]
+____
 The Lord shall roar from Zion,
-
 And utter his voice from Jerusalem,
-
 And the habitations of the shepherds shall mourn;
-
-And the top of Carmel shall wither.`"--Amos 1: 2.
+And the top of Carmel shall wither.
+____
 
 The very year succeeding this solemn communication,
 symptoms of an insubordinate spirit appeared, especially in the Eastern Quarters,
@@ -179,7 +186,7 @@ became victims of the fearful storm of ranterism,^
 footnote:[In this year a valuable minister (who in venerable age is
 still alive in the Truth) being on a visit to New England,
 found himself religiously drawn to visit a select member,
-and he delivered to him.with great plainness of speech,
+and he delivered to him with great plainness of speech,
 a close and searching message of warning and rebuke.
 The object of his concern, laying his hand upon him in a patronizing manner, replied,
 "`Dear young man--be faithful--I desire your encouragement.`"
@@ -199,11 +206,19 @@ how signally mourning was brought into "`the habitations of
 the shepherds`" on behalf of cherished ones who turned away
 from the footsteps of the flock of Christ`'s companions.`"
 
-Nantucket, Seventh mo.
-10th, 1799.
+[.embedded-content-document.letter]
+--
 
-Dear Friend,
-H+++.+++ Drinker,--I believe you know how to make large
+[.letter-heading]
+Rebecca Jones to Henry Drinker
+
+[.signed-section-context-open]
+Nantucket, Seventh mo. 10th, 1799.
+
+[.salutation]
+Dear Friend, H. Drinker,
+
+I believe you know how to make large
 allowance for such a poor and almost worn out pilgrim,
 or else I should make a long apology for omitting till now to acknowledge
 the receipt of your friendly communication of the 16th of last month,
@@ -294,7 +309,10 @@ And now, feeling the renewal of that love which in earlier life was our encourag
 and desiring it may now, towards the evening of our day, become our song of rejoicing,
 I therein conclude, and remain your sincerely obliged friend and sister in the truth,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 A letter received about this time by Rebecca Jones and J. Snowdon,
 contained a message from Samuel Emlen Sr., expressive of his continued gospel fellowship,
@@ -557,9 +575,19 @@ Sixth day, the 11th,
 "`Being the anniversary of my being taken with the yellow fever in '93,
 my soul was solemnly humbled before the Lord, for his unmerited mercy under that trial.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Rebecca Jones to Martha Allinson
+
+[.signed-section-context-open]
 Edgely Farm, Tenth month 19th, 1799.
 
-My Moved friend, Martha Allinson,--Many times during my sojourning here,
+[.salutation]
+My beloved friend, Martha Allinson,
+
+Many times during my sojourning here,
 under the hospitable roof of my dear friend, Catherine Howell,
 have I thought of my dear friends at Burlington,
 and reflected on the time spent with you and
@@ -596,7 +624,10 @@ be enabled to hold out in faith and patience unto the end,
 and finally obtain an admission into that rest which is undisturbed and full of glory,
 is the desire of your affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 She returned, 10th Mo. 25th to her home in Brook`'s Court,
 which was in those days characterized by neatness and beauty,
@@ -615,13 +646,13 @@ and as she stood before the house of Rebecca Jones (then in process of
 demolition) the dear voice of its illustrious occupant seemed to salute her,
 in these lines, which she had taught to her as she stood in infancy beside her knee.
 
+[verse]
+____
  "`Give first to God the flower of your youth--
-
-Take for your guide the blessed -word of Truth--
-
+Take for your guide the blessed Word of Truth--
 Adorn your soul with Grace--prize Wisdom more
-
 Than all the pearls upon the Indian shore.`"
+____
 
 There are still many who, who in reference to the subject of our memoir,
 can apply the words, "`She being dead yet speaks.`"
@@ -661,4 +692,3 @@ that she (Rebecca Jones) had fully expressed the
 exercise which had been upon her own mind,
 and that she believed that the surrender of her will, in thus standing upon her feet,
 had been accepted.
-

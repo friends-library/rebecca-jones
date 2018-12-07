@@ -1,10 +1,13 @@
 == Chapter VI.
 
+[.chapter-subtitle--blurb]
 1788.
 
-Return Voyage--Letters written on Board the
-Pigou--Lands at Salem--Attends Woodbury Meeting,
-and proceeds to Philadelphia.
+[.chapter-synopsis]
+* Return Voyage
+* Letters written on Board the Pigou
+* Lands at Salem
+* Attends Woodbury Meeting, and proceeds to Philadelphia.
 
 Went on board the Pigou, the 13th of Eighth month, 1788, at Gravesend,
 about 7 o'clock in the evening of the 4th day of the week,
@@ -34,9 +37,16 @@ so that by the tossing of the ship I w,:s at times unfit for any thing but lying
 Yet a boat coming to us from Deal, I wrote to my friends Jospeh Gurney and Mary Bevan,
 to dear L. H., and to my beloved Christiana Hustler.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 On board the Pigou, 16th of 8t.h month, 1788, 1 o'clock, P. M.--
 
-My dearly beloved companion, Christiana Hustler,--Here sitting on a hencoop,
+[.salutation]
+My dearly beloved companion, Christiana Hustler,
+
+Here sitting on a hencoop,
 after a day and night's sickness, by reason of head wind,
 which keeps us at anchor just in sight of Deal,
 not knowing how long we may have to wait for a
@@ -75,7 +85,10 @@ for my whole heart salutes thee in the bonds of the gospel,
 believing the pure union will not be dissolved by time or distance.
 I am thy ever loving, grateful, though very sick companion.
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 17th. Being the First of the week,
 I told my female companions that I should think
@@ -342,13 +355,13 @@ give me bread to eat, and raiment to put on,
 and bring me again to my own country in peace; Thou shalt indeed be my God, and I will,
 according to the measure of light and strength afforded, for ever serve and follow Thee.
 
+[verse]
+____
 "`My life, if Thou preserve my life,
-
-  Thy sacrifice shall be,
-
- And death, if death shall be my doom,
-
- Shall join my soul to Thee!`"
+Thy sacrifice shall be,
+And death, if death shall be my doom,
+Shall join my soul to Thee!`"
+____
 
 The remembrance of an honest, upright-hearted remnant in the island of Great Britain,
 to whom I have been made near in the fellowship of the Gospel of Peace,
@@ -367,8 +380,6 @@ instrumentally bestowed upon these parts of the vineyard,
 and that the honest labourers will have their reward,
 and the gain and praise of all be given to the great heavenly Workman,
 who is now and for ever worthy.
-
-Rebecca Jones
 
 All the night it was at times squally, so that we were, I trust,
 properly thoughtful in the cabin:
@@ -489,12 +500,19 @@ and the wind, in squalls, very high.
 After another heavy squall the ship was put about, by which I was turned to leeward,
 and was in less danger of pitching out of my bed.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones to Esther Tuke.
 
-On board the Pigou, on the great Atlantic, Latitude 40° 42' 9th mo.
-20th, 1788.
+[.signed-section-context-open]
+On board the Pigou, on the great Atlantic, Latitude 40° 42' 9th mo. 20th, 1788.
 
-Dearly beloved Friend,--Being often favoured, whilst floating on the mighty ocean,
+[.salutation]
+Dearly beloved Friend,
+
+Being often favoured, whilst floating on the mighty ocean,
 to feel near unity of spirit with such dear friends in the
 land whence (with my natural "`life for a prey,`" and a degree
 of that peace which exceeds description,) I have now escaped,
@@ -569,7 +587,10 @@ King's table--with whatever is interesting to thee:
 for it will be so to me, because we are (dare I presume) soldiers in the same army,
 consequently entitled to hear of the several movements therein.
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 20th. Seventh-day.
 Awoke afreshed, and with an easy mind.
@@ -809,4 +830,3 @@ but only thirty-six days from land to land,) so that I had the
 satisfaction of seeing my dear friends generally from the country,
 and truly our joy was mutual:
 and in the assembly of the Lord's people to give Him thanks for his mercies.`"
-

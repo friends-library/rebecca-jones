@@ -1,11 +1,18 @@
 == Chapter XIII.
 
+[.chapter-subtitle--blurb]
 1799.--1801.
 
-Death of S. Emlen senior, and his presentiment of it--Notice of Samuel Emlen, junior,
-and wife---Gervase Johnson--Letters--Stop in her mind against recruiting her
-shop--Death of J. Hartley and the intimation thereof afforded to her--
-Reflections on the source of such intimations--Rich Cheese--H. Barnard.
+[.chapter-synopsis]
+* Death of Samuel Emlen senior, and his presentiment of it
+* Notice of Samuel Emlen, junior, and wife
+* Gervase Johnson
+* Letters
+* Stop in her mind against recruiting her shop
+* Death of J. Hartley and the intimation thereof afforded to her
+* Reflections on the source of such intimations
+* Rich Cheese
+* Hannah Barnard
 
 On the 14th of Twelfth month, 1799, Samuel Emlen paid Rebecca Jones a visit,
 which proved to be their final interview.
@@ -21,13 +28,13 @@ and finding himself ill he leaned,
 in great physical weakness on the rail before him and repeated
 with touching pathos the following stanza from Addison--
 
+[verse]
+____
 "`My life, if Thou preservest my life,
-
 Thy sacrifice shall be,
-
 And death, if death should be my doom,
-
 Shall join my soul to thee.`"
+____
 
 The meeting broke up--he was taken to a neighbouring house, and, when a little revived,
 to his home.
@@ -62,7 +69,7 @@ quietly departed to be with him who said, "`Father,
 I will that those whom thou hast given me, be with me where I am,
 that they may behold my glory which thou hast given me.`"
 
-Before day break that morning, Rebecca Jones and her B. C,
+Before day break that morning, Rebecca Jones and her B. C. (Bernice Chattin)
 were conversing about Samuel Emlen, and of a singularly pleasant dream^
 footnote:[This dream may, without attaching importance to it, interest the reader.
 Rebecca Jones's young companion, in the illusion of slumber,
@@ -195,10 +202,16 @@ and her lovely countenance beamed with soft intelligence.
 
 But--she has gone--and her death is the withdrawing or a most radiant and beautiful
 orb that gladdened and enlightened the circle of her family and friends,
-yet the triumphant hope of glory through the blessed Redeemer is felt over all.`"
+yet the triumphant hope of glory through the blessed Redeemer is felt over all.`"+++]+++
+
+[.small-break]
+'''
 
 To her valued friend and kind Dublin host, Joseph Williams, she writes, Fifth mo.
 24th, 1800:
+
+[.embedded-content-document.letter]
+--
 
 "`As you are like to be favoured with another visit from our beloved brother,
 Samuel Smith, who.
@@ -268,21 +281,26 @@ J+++.+++ W. In thy freedom--though I suspect it will be a painful
 task--I should like to know the true state of things,
 that more than enough might not be in circulation.
  
-
 Our dear N. Waln is poorly; William Savery, a strong man,
 and D. Bacon remains an upright pillar--sound and steady;
 perhaps thou hast heard of the decease of dear Patience Brayton;
 but Mehetabel Jenkins is alive and in the truth.`"
 
-[.asterism]
-'''
+--
 
-Rebecca Jones to Martha Routh.
+[.embedded-content-document.letter]
+--
 
-Philadelphia, 5th mo.
-26th, 1800.
+[.letter-heading]
+Rebecca Jones To Martha Routh.
 
-My beloved Martha Routh,--Thy last, of Seventh month 13th, 1799, is now before me.
+[.signed-section-context-open]
+Philadelphia, 5th mo. 26th, 1800.
+
+[.salutation]
+My beloved Martha Routh,
+
+Thy last, of Seventh month 13th, 1799, is now before me.
 I had, before its receipt, concluded that,
 as so many of mine to different friends in your land had been lost,
 it would be best for me to lay my pen, where my honour had for some time been, viz.,
@@ -337,17 +355,24 @@ in his infinite mercy, may, at the last, conduct my poor soul thereinto,
 even in the lowest station.
 Farewell, my endeared sister, for so thou art to thy poor
 
+[.signed-section-signature]
 Rebecca Jones
 
-[.asterism]
-'''
+--
 
-Rebecca Jones to Martha Routh.
+[.embedded-content-document.letter]
+--
 
-Philadelphia, 11th mo.
-6th, 1800.
+[.letter-heading]
+Rebecca Jones To Martha Routh.
 
-My dear Friend,--Thy tender greeting of Seventh month last, came duly to hand;
+[.signed-section-context-open]
+Philadelphia, 11th mo. 6th, 1800.
+
+[.salutation]
+My dear Friend,
+
+Thy tender greeting of Seventh month last, came duly to hand;
 the contents whereof awakened all that is within me capable of
 feeling with thee in the depth of many sorrows,
 and with Friends in your land who are concerned to support those
@@ -401,16 +426,21 @@ What shall we say to such things as these,
 but that all must purchase Truth for themselves,
 if they really come into the possession of it.
  
+--
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
-Rebecca Jones to Joseph Williams.
+[.letter-heading]
+Rebecca Jones To Joseph Williams.
 
-Philadelphia, 11th mo.
-6th, 1800.
+[.signed-section-context-open]
+Philadelphia, 11th mo. 6th, 1800.
 
-Dear friend, Joseph Williams,--Thy truly welcome epistle of Eighth month last,
+[.salutation]
+Dear friend, Joseph Williams,
+
+Thy truly welcome epistle of Eighth month last,
 I have now before me, and, fully resolved to keep fast hold of my end of the chain,
 as our Indians say, sit down in order to reply to thy sundry intelligence;
 some part of which hath clothed my mind with great sadness.
@@ -467,8 +497,7 @@ Ah, what changes, divisions, and multiplications in families,
 have taken place in a few years! and what remaineth to
 pass through is wisely hidden from us.
 I think this scrawl will convince thee, that I am old, and almost worn out,
-for all thou pleasantly say.
-est about old maidens.
+for all thou pleasantly sayest about old maidens.
 
 As to my present circumstances take the following.
 I live in a neat dwelling in Brook's Court, near North meeting; keep a little shop;
@@ -484,9 +513,13 @@ Let us pray for one another, that we may be kept steadfast and immovable unto th
 and finally obtain an admission into that city, "`none of whose inhabitants can say,
 I am sick!`"
 
+[.signed-section-closing]
 I am, dear Joseph, with love unfeigned, thy sister in the unchangeable Truth,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 The scepticism which prevailed in Ireland occasioned her much concern; the more so,
 as it ensnared some, of whom she had hoped better things.
@@ -587,10 +620,16 @@ a present of`" a very rich cheese,`" in which was a tin box,
 containing twenty guineas in gold,
 being the amount of a legacy left to Rebecca Jones by a deceased friend.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 10th month 26th, 1801.
 
-Dearly beloved friend,
-S+++.+++ Stephenson,--I have often thought of writing to thee since
+[.salutation]
+Dearly beloved friend, S. Stephenson,
+
+I have often thought of writing to thee since
 thy arrival in our land with thy dear companion M. Jeffries,
 but being in expectation of seeing thee before this time in our city,
 I have put the motion by until now--and having, in a dream last night, been with thee,
@@ -628,21 +667,32 @@ I have no late letters from Europe, but, as I cannot hold out as usual,
 in the epistolary way, I must endeavour to be content under the ancient assertion,
 "`He that soweth sparingly, shall reap sparingly.`"
 
+[.signed-section-closing]
 In Gospel affection, I remain thy poor, but sincerely well wishing sister,
 
+[.signed-section-signature]
 Rebecca Jones
 
+--
+
 To Christiana Hustler and daughter, she writes Eleventh mo.
-27th,--"`My faithful, dear friend Catharine Howell's choice daughter, Elizabeth,
+27th:
+
+[.embedded-content-document.letter]
+--
+
+"`My faithful, dear friend Catharine Howell's choice daughter, Elizabeth,
 about the age of S. Hustler, has several times, lately,
 lifted up her voice in public meetings, and is a precious plant.
 May all who have submitted to become fools for Christ's sake in this way,
 follow his leadings faithfully, and serve him with their whole hearts,
 is the fervent petition of my heart.`"
 
+[verse]
+____
 'So shall they grow to glad parental care,
-
 And shine as warriors in defence of Truth.'
+____
 
 "`Of Hannah Barnard's^
 footnote:[In several of the preceding letters,
@@ -653,7 +703,7 @@ yet there can be no reasonable doubt that she was a prominent agent in the
 production of the difficulties and exercises to which Rebecca Jones
 frequently alludes.
 {footnote-paragraph-split}
-                Hannah Barnard,
+Hannah Barnard,
 who resided in the State of New York, was an acknowledged minister in our Society,
 possessed of talents considerably above the ordinary level,
 with a force of imagination and power of language which were
@@ -673,8 +723,7 @@ that Friends in Ireland judged it needful that
 she should discontinue her ministerial labours,
 and return home.
 {footnote-paragraph-split}
-                From
-this judgment she appealed to the Yearly Meeting of London,
+From this judgment she appealed to the Yearly Meeting of London,
 where the subject underwent a careful examination.
 Her popular and plausible eloquence had attached a party to her,
 but after a patient investigation,
@@ -685,7 +734,7 @@ she was disowned.
 From this judgment she appealed to the Quarterly and Yearly Meetings,
 by which the testimony was confirmed.--Editor Friend's Review.
 {footnote-paragraph-split}
-                Rebecca Jones received from Richard Jordan a
+Rebecca Jones received from Richard Jordan a
 curious and interesting letter respecting Hannah Barnard,
 which the compiler has not been able to find among her papers.
 Writing in allegorical style,
@@ -717,3 +766,4 @@ She spoke a few words in our meeting last Third day, and will, I verily believe,
 land in peace at last.
 What a mercy!`"
 
+--

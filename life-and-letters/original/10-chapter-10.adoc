@@ -1,14 +1,22 @@
-== Chapter TENTH.
+== Chapter X.
 
+[.chapter-subtitle--blurb]
 1794.--1799.
 
-A young friend joins her family.--Rebecca Jones's last letter to Esther Tuke.--N.
-Waln's prospect for England Visit in N. Jersey.--Letter from S. Harrison.--Death
-and character of Catherine Phillip Attends New York Yearly Meeting Letters.--
-Establishment of West Town School and of Indian Committee.--Letter from William
-Savery--Rebecca Jones delivers her message in Monthly Meeting.--Fever of 1797.--
-Rebecca Jones,
-goes to Edgely.--Death of Thamazin Clifford.--Returns to Brooke's Court.
+[.chapter-synopsis]
+* A young friend joins her family
+* Rebecca Jones`'s last letter to Esther Tuke
+* N. Waln`'s prospect for England Visit in N. Jersey
+* Letter from S. Harrison
+* Death and character of Catherine Phillip
+* Attends New York Yearly Meeting Letters
+* Establishment of West Town School and of Indian Committee
+* Letter from William Savery
+* Rebecca Jones delivers her message in Monthly Meeting
+* Fever of 1797
+* Rebecca Jones goes to Edgely
+* Death of Thamazin Clifford
+* Returns to Brooke`'s Court
 
 An interesting child, who had been with Rebecca Jones, as a daughter,
 being removed by death, the bereavement was keenly felt by her; so much so,
@@ -36,10 +44,14 @@ to omit recording the close union which subsisted for 22 years, and to which,
 in the loose manuscripts before him, almost innumerable references are made.
 A less interested compiler would have quoted much more freely from their correspondence.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Esther Tuke.
 
-Philadelphia, 1st mo.
-25th, 1795.
+[.signed-section-context-open]
+Philadelphia, 1st mo. 25th, 1795.
 
 Some sketches of the late awful dispensation to the inhabitants of this city,
 and of that share therein which in perfect wisdom was allotted me,
@@ -117,14 +129,22 @@ be counted worthy to join the song of his triumphant church, Holy, holy, holy,
 is the Lord God and the Lamb, worthy of all glory and praise for ever and ever.
 I remain thy poor fellow pilgrim,
 
+[.signed-section-signature]
 Rebecca Jones
 
+--
+
 To the above letter was appended the following postscript:
+
+[.embedded-content-document.letter]
+--
 
 "`If my beloved Esther Tuke is beyond the reach of this salutation,
 I hope for some reply from survivors.
 May a double portion of her dedicated disposition, rest on all her family,
 saith poor Rebecca Jones.`"
+
+--
 
 The foreboding implied in the postscript, was to Esther Tuke blissfully realized,
 she having, before the reception of this letter,
@@ -274,13 +294,14 @@ May all things which are permitted and dispensed in unerring wisdom,
 work together for my increasing fitness to enter into Everlasting rest when
 this sore fight of affliction is over--is my fervent prayer.`"
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Extract from a letter from Sarah Harrison to Rebecca Jones
 
-Leeds, 4th mo.
-7th, 1796.
+[.signed-section-context-open]
+Leeds, 4th mo. 7th, 1796.
 
 'I do not wish to burden thee with my troubles, for I find thou hast enough of thy own,
 and my feelings are awakened, and my sympathy hath been renewed with thee,
@@ -336,6 +357,8 @@ as I have at any time since I left home.
 And therefore I most sincerely desire to be remembered by thee,
 and by all that desire my preservation.
 
+--
+
 In this year died Catherine Phillips (formerly Payton)
 whom Rebecca Jones called "`my beloved parent in Christ,
 through whom I received the first awakening stroke.`"
@@ -345,9 +368,15 @@ not written by a Friend,
 and presenting some valuable traits not fully set forth in her printed memoir,
 is thought worthy of insertion.
 
-From the Gentleman's Magazine for 1795 Died, at Redruth, county Cornwall,
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+From the Gentleman's Magazine for 1795.
+
+Died, at Redruth, county Cornwall,
 at an advanced age, Catherine Phillips, one of the people called Quakers,
-relict of the late W. P., a gentleman of large concerns in that mining country,
+relict of the late William Phillips, a gentleman of large concerns in that mining country,
 and of great respectability, whom she married late in life.
 Her life and talents were too extraordinary not to merit record.
 She was a native of Dudley, county Worcester, and sister to the late James Payton,
@@ -419,12 +448,20 @@ and her Christian courage to oppose licentiousness among the gay,
 covetousness among the rich, and fanaticism among the weak,
 rendered her one of the most useful and distinguished members of it.
 
+--
+
 From New York, where she appears to have been attending the Yearly Meeting,
 accompanied by Catherine Haines--a minute from her
 Monthly Meeting being sent after her--she writes,
 
+[.embedded-content-document.letter]
+--
 
-Fifth month 27th, 1796, to Henry Drinker:
+[.letter-heading]
+To Henry Drinker
+
+[.signed-section-context-open]
+Fifth month 27th, 1796.
 
 "`Tis expected the Yearly Meeting will close to-morrow.
 It has been large, and, so far as my weak judgment goes, a solid instructive time;
@@ -451,7 +488,12 @@ only that his hair is a little changed.
 If my health should be restored by the early part of next week, I hope to turn homewards,
 though I may, perhaps, stop a few days at Rahway, etc.`"
 
+--
+
 After referring to the removal by death of some Friends, she continues:
+
+[.embedded-content-document.letter]
+--
 
 "`But I consider that it is but a little while that we, who are now moving about,
 shall have the opportunity of evincing, to such as are advancing on the stage of life,
@@ -484,7 +526,10 @@ being the crown that will never fade, but abide for ever and ever.
 "`If I have exceeded, tell me so, and believe me to be thy much obliged,
 and sincerely affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 Fifth month 30th, in a letter to Bernice Chattin, she mentions,
 that although she had suffered with an attack of chill and fever,
@@ -572,7 +617,7 @@ The important benefits which that seminary has conferred upon our religious Soci
 and the stimulus which it gave to education among Friends,
 are too generally known to require particular notice in this place.
 {footnote-paragraph-split}
-                The Admission of black people into society,
+The Admission of black people into society,
 to which she alludes,
 may seem to imply that a rule to exclude them had previously existed.
 That, it is apprehended, was not the case.
@@ -614,6 +659,12 @@ were placed at the service of the institution.
 We now extract some passages from a long and interesting letter,
 bearing date Twelfth month 30th, 1796, addressed to her from Amsterdam,
 by her friend William Savery.
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+From William Savery to Rebecca Jones
 
 "`It has been a consolation to my spirit to feel thee
 interested as a partner with me in my present engagement,
@@ -725,6 +776,8 @@ I do not remember at any time to have sat more
 humbling and contriting meetings than those:
 the praise is the Lord's.`"
 
+--
+
 1797+++.+++ In 8th month, the Yellow Fever having again broken out, the inhabitants,
 following the instinct of self-preservation, rapidly removed from the city,
 and Rebecca Jones's small household was left quite alone in "`Brook's Court.`"
@@ -776,6 +829,9 @@ to bless thy ever adorable goodness and mercy, and renewedly to query,
 
 Ninth month 23d, she writes to her kind friend and efficient helper, Leonard Snowdon:
 
+[.embedded-content-document.letter]
+--
+
 "`I have been much with the little company this day assembled.
 May the blessed Shepherd be with you, and crown with his life-giving presence.
 I shall esteem it a favour, thy giving me an account of what came before you,
@@ -786,6 +842,8 @@ This family are kind beyond description; divers Friends have been to see me,
 and their company, with that of dear William Rotch and Martha Routh and companion,
 have several times had a strengthening effect, so that I may adopt the language of David,
 'In the multitude of my thoughts within me, thy comforts delight my soul.'`"
+
+--
 
 Under the same date she notes: "`In the afternoon dear Tamson Clifford walked here,
 (two miles,) and made us an hour's visit.
@@ -807,12 +865,19 @@ We sat silent and sorrowful all the evening, in the chamber.`"
 
 The following letter was written to the aged and afflicted mother of the deceased.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Anne Clifford.
 
-Edgely, 10th mo.
-2nd, 1797.
+[.signed-section-context-open]
+Edgely, 10th mo. 2nd, 1797.
 
-My dear friend,--Such are my affectionate sympathetic feelings with
+[.salutation]
+My dear friend,
+
+Such are my affectionate sympathetic feelings with
 thee and thine in the present humbling and afflictive dispensation,
 and such has been the tender solicitude of my soul on account of the dear deceased, who,
 (though I always tenderly loved her,) was yet rendered in her last visit here,
@@ -838,9 +903,13 @@ and sanctify this present grievous affliction,
 as that they may happily witness it to work for them "`a far move
 exceeding and eternal weight of glory,`" is my ardent desire.
 
+[.signed-section-closing]
 Thy endeared friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 The Yearly Meeting occurring during her imprisonment at Edgely,
 her counsel was sought by various friends.
@@ -876,4 +945,3 @@ I wish I could say,`" she adds,
 "`that a desire of this sort was evident in the conduct of the people at large.
 But alas, I fear a greater chastisement will be found necessary,
 more availingly to teach them righteousness.`"
-

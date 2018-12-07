@@ -1,11 +1,19 @@
 == Chapter XIV.
 
+[.chapter-subtitle--blurb]
 1802--1804.
 
-Arrival of S. Stevenson and M. Jeffries,
-and death of the former--Letters--Death of Hannah Price--William Jackson--Retires
-to Edgely--Letters to James Allinson--Arrival of George Dillwyn--Returns to Brooks`'
-Court--Whale--Rebecca Jones and S. Smith in sympathy with Friends in England.
+[.chapter-synopsis]
+* Arrival of S. Stevenson and M. Jeffries, and death of the former
+* Letters
+* Death of Hannah Price
+* William Jackson
+* Retires to Edgely
+* Letters to James Allinson
+* Arrival of George Dillwyn
+* Returns to Brooks`' Court
+* Whale
+* Rebecca Jones and S. Smith in sympathy with Friends in England
 
 In her pocket almanac for 1802, she notes,--on New Year`'s day,
 as we suppose--"`Forasmuch as the Lord in his infinite
@@ -60,7 +68,12 @@ we may be favoured to make an end like unto theirs.`"
 The interment took place in the Fourth street grave yard.
 
 To her friend Mary Bevon she writes 5th mo.
-1st--"`I by no means wish to take you in any "`snare`" other than
+1st:
+
+[.embedded-content-document.letter]
+--
+
+"`I by no means wish to take you in any "`snare`" other than
 such as true friendship and good old fashioned love dictates,
 I say old fashioned, because you know there is a deal of fancy goods,
 and new fashioned stuffs now a days, brought into use,
@@ -134,6 +147,8 @@ and bid you endearedly farewell, being your affectionate fellow disciple.
 William Jackson,--a man of simplicity, wisdom and sincerity,
 has obtained credentials for a visit to your land.`"
 
+--
+
 Fifth month 8th she notes,--"`Died, Hannah, wife of Philip Price,
 of whom it may be said she was among the meek and merciful,
 and had marked upon her the blessing pronounced upon the peace makers.
@@ -141,13 +156,21 @@ I went with Sarah Harrison and S. Rhoads, to her burial, at Darby, the 10th,
 where a solemn meeting was held.
 William Savery had the chief service.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Rebecca Jones To Joseph William.^
 footnote:[Parents of Philip Price, once superintendent at Westtown.
-H+++.+++ P. was a valued Elder and Mother in Israel.]
+Hannah Price was a valued Elder and Mother in Israel.]
 
+[.signed-section-context-open]
 Philadelphia Sixth month 9th, 1802.
 
-My clear and worthy friend, Joseph Williams,--However,
+[.salutation]
+My clear and worthy friend, Joseph Williams,
+
+However,
 "`short and scanty`" in your own view, your letter of Fourth month, I do assure you,
 the receipt of it has given me much pleasure;
 and though all its contents were not of the most consoling kind,
@@ -222,7 +245,7 @@ I am now in the fifty-ninth year of my age, and find myself but a learner,
 and in need of daily instruction.`"
 {footnote-paragraph-split}
 He returned to his native land in the Autumn of 1805.
-The ancient testimony of the Society, to live within the hounds of our circumstances,
+The ancient testimony of the Society, to live within the bounds of our circumstances,
 and to avoid engaging in hazardous enterprises,
 to the disturbance of our own tranquillity,
 and the endangering of the property of others, lay very near to his heart;
@@ -272,15 +295,24 @@ which I sincerely believe is the state of your dear wife and self.
 Accept, therefore, the cordial salutation, and offer it to your sister,
 and son Nathaniel, from your old and affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
 
-[.asterism]
-'''
+--
 
-Philadelphia, 7th mo.
-8th, 1802.
+[.embedded-content-document.letter]
+--
 
-Dear friend, Mary Jeffries,--As I learn that you are still detained at New York,
+[.letter-heading]
+Rebecca Jones to Mary Jeffries
+
+[.signed-section-context-open]
+Philadelphia, 7th mo. 8th, 1802.
+
+[.salutation]
+Dear friend, Mary Jeffries,
+
+As I learn that you are still detained at New York,
 I seem as if I could not remain longer easy without giving you
 a few lines to manifest afresh my sisterly sympathy and love
 before you embark for your native country,
@@ -311,7 +343,10 @@ Shepherd of Israel be near you both in your floating enclosure,
 and often make you joyful in his House of Prayer,
 and then bring into remembrance your infirm poor sister, your affectionate friend,
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 In the Eighth month, 1802, a fever broke out in her neighbourhood,
 by which she notes that the inhabitants were so much terrified
@@ -319,13 +354,26 @@ that "`nearly one third of them removed into the country.`"
 On the 10th she accepted the invitation of her "`faithful,
 invariable friend,`" the hostess of Edgely,
 from whose country seat she writes to Sarah Hustler,
-Ninth month 15th,--'`Whether the people were unnecessarily alarmed,
+Ninth month 15th:
+
+[.embedded-content-document.letter]
+--
+
+'`Whether the people were unnecessarily alarmed,
 or by the general removal, under Providence, the progress of the fever was checked,
 I cannot tell, but the contagion has not spread as in '93, '97, '98, and '99,
 so that there is fresh occasion for grateful,
 humble thankfulness to the Father of all our mercies,
 which my soul prays may be the clothing of all our spirits.`"
-In the same letter she says: "`As you have wisely, and I trust, unreservedly,
+
+--
+
+In the same letter she says:
+
+[.embedded-content-document.letter]
+--
+
+"`As you have wisely, and I trust, unreservedly,
 yielded to the counsel and call of your heavenly Father, Friend and Helper,
 I have no doubt that,
 as you are enabled to persevere in the path of obedience to his holy will,
@@ -355,8 +403,13 @@ and the rest known to you, are well every way.
 In love inexpressible, I salute you all,
 and am your cordial friend and sister in the Truth.`"
 
+--
+
 In a letter to James Allinson, 10th mo.
 5th, 1802, referring to the arrival of George and Sarah Dillwyn, she says,
+
+[.embedded-content-document.letter]
+--
 
 "`I have great joy in the prospect of our looking each
 other in the face once more in mutability,
@@ -381,8 +434,13 @@ gratitude and thankfulness to the great and blessed Author of all good.
 I salute you, dear James, as a fellow disciple,
 and crave your preservation and perseverance in the cause of Truth and Salvation.`"
 
+--
+
 Referring a few days later, in a letter to the same friend,
 to the arrival of George and Sarah Dillwyn, she says,
+
+[.embedded-content-document.letter]
+--
 
 "`Oh how pleased I should have been to join their party.
 I hope dear Susan Emlen will be revived by the presence of her beloved uncle and aunt,
@@ -392,10 +450,17 @@ will be qualified to acknowledge that the great Head of the Church,
 who puts forth his own and goes before them,
 is worthy to be trusted in and blessed forever.`"
 
+[.signed-section-signature]
 Rebecca Jones
+
+--
 
 Writing 11th mo.
 1st to Martha Routh, then at N. York, she says:
+
+[.embedded-content-document.letter]
+--
+
 "`I note with pleasure your intention of spending some
 time this winter in and near our city,
 where, as heretofore, I have no doubt you will find an open door,
@@ -425,6 +490,8 @@ and have all, I believe, been of more use than poor me,
 as I have been kept very much confined to the poor little flock at Germantown,
 where the Lord on high has often mercifully
 granted the needful supplies of heavenly bread.`"
+
+--
 
 She returned to her home in Brook`'s Court 11th mo.
 5th,
@@ -535,13 +602,13 @@ a lack of greater fitness to fill up my measure of duty to my great Lord and Mas
 and more sanctification of body, soul and spirit,
 to meet him with acceptance both here and forever.`"
 
+[verse]
+____
 "`Search, Lord, and purify my heart,
-
 And make it clean in every part,
-
 And when 'tis clean, Lord keep it so,
-
 For that is more than I can do.`"
+____
 
 "`Third month 17th. After performance of a church visit in the evening,
 went to J. Pemberton`'s to see dear Martha Routh, who reached the city about noon.
@@ -659,4 +726,3 @@ on which day she notes--"`John and Ann Warder, intending for Newport Y. Meeting,
 kindly offered me a seat in their carriage, which, for a time, looked pleasant;
 but this prospect having clouded over, I informed Ann that I had quite given it up,
 at which she was much affected, having been pleased with the idea of my company.`"
-
