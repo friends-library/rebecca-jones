@@ -175,7 +175,7 @@ __7th.__ Be not forward to divulge anything past in school,
 nor jeer those who have been corrected, lest it should happen to be your own case.
 
 [.alt.centered]
-=== At Home.
+==== At Home.
 
 [.numbered]
 __8th.__ Before you rise from your beds,
@@ -207,7 +207,7 @@ but always choose the company of such whose
 conversation is most improving in the best things.
 
 [.alt.centered]
-=== At Table.
+==== At Table.
 
 [.numbered]
 __11th.__ Be not forward to sit down at table before the rest have taken their places,
@@ -222,7 +222,7 @@ rise from table without noise, moving away your seats; withdraw if strangers be 
 unless desired to stay.
 
 [.alt.centered]
-=== At Places for Worship.
+==== At Places for Worship.
 
 [.numbered]
 __12th.__ When you attend meetings for Divine worship,
