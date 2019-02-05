@@ -252,7 +252,7 @@ permitted to us! then might we hope to be spared another year.^
 footnote:[ It may be interesting to some of our
 readers to be informed that the yellow fever,
 to which Rebecca Jones so frequently and feelingly alludes,
-and which made such awful ravages in this city in the years 1793, '97, '98, and '99,
+and which made such awful ravages in this city in the years 1793, '`97, '`98, and '`99,
 visited it again, to a considerable extent, in 1803.
 From that time to the present, though isolated cases have occurred,
 it has not assumed an epidemic character.
