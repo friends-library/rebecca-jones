@@ -43,10 +43,10 @@ To claim the promised Palm in JESUS`' name,
 And join in worship with a seraph`'s flame.`"
 ____
 
-"`Thus it is, my contemporaries, friends,
-and acquaintances,`" are called hence one after another, and I,
+"`Thus it is, my contemporaries, friends, and acquaintances,
+are called hence one after another, and I,
 a monument of divine mercy and compassion, am spared a little longer.
-May the deep enquiry, for what end?
+May the deep enquiry, __for what end?__
 be constantly with me, and may my blessed Lord and Master enable me,
 with increasing diligence,
 to finish the work he has given me to do;--so as that I also may end in peace,
@@ -61,7 +61,7 @@ Truly we are nothing, nor can do any thing, in promoting temporal or spiritual g
 without the Lord is pleased to bless the work in and for us.`"
 
 In Front street, opposite the end of Brook`'s court, stood, at the time of which we write,
-Peter Brown`'s blacksmith shop, where was employed as foreman, Jacob B, an elderly man,
+Peter Brown`'s blacksmith shop, where was employed as foreman, Jacob B., an elderly man,
 and a sober minded Methodist, who had lost three daughters in the yellow fever of 1802.
 William Savery had in this, as in many other instances, devoted much personal attention,
 at the risk of his own life.
@@ -81,25 +81,17 @@ minister of Christ,`" as his venerable biographer has appropriately styled him,
 lived in the hearts of others than his own people.
 And truly his solicitude to do good to the bodies and souls of men,
 was limited by no sectarian boundary.^
-footnote:[Although this "`hymn`" (as he styled
-it) was certainly not intended to create a smile,
+footnote:[Although this "`hymn`" (as he styled it)
+was certainly not intended to create a smile,
 a sample of it may as a curiosity amuse the reader.
-{footnote-paragraph-split}
-"`Oh the nineteenth of June Eighteen hundred and four,
-{footnote-paragraph-split}
-Was a sorrowful day to full many a score
-{footnote-paragraph-split}
-Of the children of Adam--for on that sad day
-{footnote-paragraph-split}
-The spirit of Savery did thus soar away
-{footnote-paragraph-split}
-To the regions of bliss and of endless delight,
-{footnote-paragraph-split}
-Where Jesus does reign and there is no night--
-{footnote-paragraph-split}
-For He is the Sun that enlightens the land,
-{footnote-paragraph-split}
-And Savery the faithful stands at his right hand.`"]
+`    "`Oh the nineteenth of June Eighteen hundred and four,
+     Was a sorrowful day to full many a score
+     Of the children of Adam--for on that sad day
+     The spirit of Savery did thus soar away
+     To the regions of bliss and of endless delight,
+     Where Jesus does reign and there is no night--
+     For He is the Sun that enlightens the land,
+     And Savery the faithful stands at his right hand.`" `]
 
 Seventh month 18th. After noting a recent failure of her health,
 she adds,--"`Yet I have mostly attended meetings,
@@ -132,7 +124,7 @@ intending to go to his native home, in North Carolina.`"
 To Martha Allinson.
 
 [.signed-section-context-open]
-Philadelphia, 10th mo. 21th, 1804.
+Philadelphia, 10th mo. 27th, 1804.
 
 [.salutation]
 My Dear Friend,
@@ -186,8 +178,7 @@ Our brethren were engaged about a testimony for our late brother W. Savery,
 of which S. Smith gave me a satisfactory account.^
 footnote:[For this testimony of Northern District Monthly Meeting,
 and for an interesting and instructive biography of William Savery, compiled by,
-Jonathan Evans, see Friends`'Library, vol.
-1.]
+Jonathan Evans, see [.book-title]#Friends`'Library,# vol. 1.]
 On Third-day, the 11th, our meeting was a season of great favour,
 through the ministry of J. Simpson and Thomas Scattergood.
 Next day, being in company with dear Rebecca Wright,
