@@ -694,7 +694,8 @@ is a close trial to his near friends.`"
 began at 10 and again at 3; both were large and solid sittings.
 15th. Both our meetings were very large--both houses full.
 Second day the 16th. The Meeting for Business commenced and ended on the 20th,
-about l£ o`'clock.
+// lint-disable invalid-characters
+about 1½ o`'clock.
 All the meetings were large and much favoured.`"
 "`24th. Martha Routh and M. Mifflin attended our Monthly Meeting.
 Six couples passed.`"
