@@ -131,6 +131,9 @@ to reflect what dignified characters were trained under their strict administrat
 [.alt.centered]
 === Rules of Conduct for Girls at School.
 
+[.numbered-group]
+====
+
 [.numbered]
 __1st.__ Never absent yourselves from school, unless good reasons can be assigned,
 to the satisfaction of your mistress.
@@ -245,6 +248,8 @@ rise not in a hurry, nor be impatient to be gone,
 but rather think it a favour to be admitted upon such
 solemn occasions to sit with your elder Friends,
 respectfully noticing them as you pass along, showing no haste to leave their company.
+
+====
 
 [.asterism]
 '''
