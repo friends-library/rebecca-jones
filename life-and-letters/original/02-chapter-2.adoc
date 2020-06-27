@@ -475,7 +475,11 @@ John Woolman.
 28th day 4th mo., 1772.
 
 [.postscript]
+====
+
 I desired my wife to keep this letter for thee when she might see thee.
+
+====
 
 --
 

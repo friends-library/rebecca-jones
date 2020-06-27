@@ -364,9 +364,11 @@ is the humble prayer of thy truly affectionate friend and sister.
 Rebecca Jones
 
 [.postscript]
+====
+
 26th.^
 footnote:[At Thomas Proctor`'s, Selby]
-P+++.+++ S.--Thomas Ross has gone for Bristol in order for Ireland.
+_P+++.+++ S._--Thomas Ross has gone for Bristol in order for Ireland.
 S+++.+++ Nottingham is now in London.
 I have heard of the death of Thomas Millhouse.
 Since writing the above, George Dillwyn and Samuel Emlen are gone for Holland.
@@ -396,6 +398,8 @@ May the Lord, dear John, be with thee, and furnish with best wisdom in all thy m
 (which, I have no doubt, has hitherto been the case,) and, if it be His will,
 give thee a release in mercy, with the income of solid peace.
 My heart again salutes thee and bids farewell.
+
+====
 
 [.signed-section-signature]
 Rebecca Jones
